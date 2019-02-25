@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
   <title>
-   MEng Renewable Energy Systems
+   Master of Science in Automotive Engineering
   </title>
   <!-- Google Tag Manager -->
   <script>
@@ -15,7 +15,7 @@
         })(window,document,'script','dataLayer','GTM-K86WX9W');
   </script>
   <!-- End Google Tag Manager -->
-  <link href="/app/ip/build/app.de9960923e6850e2d7eb.css" rel="stylesheet"/>
+  <link href="/app/ip/build/app.2894efc26a1846dc6a23.css" rel="stylesheet"/>
  </head>
  <body class="o-page">
   <!-- Google Tag Manager (noscript) -->
@@ -156,22 +156,22 @@
       <div class="col-12">
        <div class="c-detail-header">
         <picture class="c-detail-header__logo">
-         <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ad9cf5fef7af272626893.png"/>
-         <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ad9cf5fef7af272626893.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ad9cf5fef7af272626893.png"/>
+         <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac339c79afb4782309043.png"/>
+         <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac339c79afb4782309043.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac339c79afb4782309043.png"/>
         </picture>
         <div class="c-detail-header__content">
          <h2 class="c-detail-header__title">
           <span class="d-none d-sm-block">
-           MEng Renewable Energy Systems
+           Master of Science in Automotive Engineering
           </span>
           <span class="d-sm-none">
-           MEng Renewable Energy Systems
+           Automotive Engineering (MSc)
           </span>
          </h2>
          <h3 class="c-detail-header__subtitle">
-          Hamburg University of Applied Sciences
+          RWTH Aachen University
           <span class="c-detail-header__info">
-           • Hamburg
+           • Aachen
           </span>
          </h3>
         </div>
@@ -189,15 +189,15 @@
            <div class="c-article-functions">
             <ul class="list-inline d-flex align-items-center">
              <li class="list-inline-item">
-              <a aria-label="bookmark" class="c-article-functions__item c-article-functions__item--bookmark js-add-to-watchlist" data-id="4059" data-remove-title="unbookmark" data-title="bookmark" href="#" title="bookmark">
+              <a aria-label="bookmark" class="c-article-functions__item c-article-functions__item--bookmark js-add-to-watchlist" data-id="4599" data-remove-title="unbookmark" data-title="bookmark" href="#" title="bookmark">
               </a>
              </li>
              <li class="list-inline-item">
-              <a aria-label="compare" class="c-article-functions__item c-article-functions__item--compare js-add-to-compare-list" data-course-type="2" data-id="4059" data-remove-title="uncompare" data-title="compare" href="#" title="compare">
+              <a aria-label="compare" class="c-article-functions__item c-article-functions__item--compare js-add-to-compare-list" data-course-type="2" data-id="4599" data-remove-title="uncompare" data-title="compare" href="#" title="compare">
               </a>
              </li>
              <li class="list-inline-item">
-              <a aria-label="map" class="c-article-functions__item c-article-functions__item--map js-to-google-map-link" data-id="4059" href="/deutschland/studienangebote/international-programmes/en/result/" title="map">
+              <a aria-label="map" class="c-article-functions__item c-article-functions__item--map js-to-google-map-link" data-id="4599" href="/deutschland/studienangebote/international-programmes/en/result/" title="map">
               </a>
              </li>
             </ul>
@@ -228,11 +228,6 @@
               Services
              </a>
             </li>
-            <li class="nav-item c-detail-nav__item">
-             <a aria-controls="more" aria-selected="false" class="c-detail-nav__tab c-detail-nav__last-item" data-toggle="tab" href="#university" id="university-tab" role="tab">
-              About the University
-             </a>
-            </li>
            </ul>
           </div>
           <div class="tab-content" id="myTabContent">
@@ -243,13 +238,7 @@
                Degree
               </dt>
               <dd class="c-description-list__content mb-0">
-               Master of Engineering Renewable Energy Systems
-              </dd>
-              <dt class="c-description-list__content">
-               Course location
-              </dt>
-              <dd class="c-description-list__content mb-0">
-               Hamburg
+               Master of Science in Automotive Engineering
               </dd>
               <dt class="c-description-list__content">
                Teaching language
@@ -266,7 +255,7 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                Classes are in English. However, German A2 is a mandatory part of the application (please provide proof of this in the form of a certificate) as lab work with technicians etc. may require a basic knowledge of German.
+                The degree programme "Automotive Engineering (MSc)" is a special international Master's programme that is only taught in English.
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -282,20 +271,35 @@
                Winter semester
               </dd>
               <dt class="c-description-list__content">
+               More information on beginning of studies
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               You can find all of the information via the following link:
+               <br/>
+               http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/~egv/Semestertermine/?lidx=1
+              </dd>
+              <dt class="c-description-list__content">
                Application deadline
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The online application is open during the application period only:
-                <a href="http://www.haw-hamburg.de/international-master" target="_blank">
-                 http://www.haw-hamburg.de/international-master
-                </a>
-                <br/>
-                <br/>
-                Application period: 1 April - 15 July
+                The application phase for the winter semester:
                </p>
                <p>
-                Please get your certificates checked by uni-assist first and get a VPD ("Vorprüfungsdokumentation") for your application.
+                <strong>
+                 Non-EU students
+                </strong>
+                (Non-EU/EEA citizens):
+                <br/>
+                4 December – 1 March
+               </p>
+               <p>
+                <strong>
+                 European students
+                </strong>
+                (EU/EEA citizens) and international exchange students who are already enrolled as students at RWTH Aachen University:
+                <br/>
+                7 May – 15 July
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -321,57 +325,10 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The Master's programme is made up of two semesters of theory and practice with the following modules:
+                In this programme, students are taught the technological basics and in-depth knowledge of the conception and the development of passenger cars and commercial vehicles as well as the conception and the development of motorcycles and off-highway vehicles (optional). This comprises technical vehicle design with regard to market, legislative, and manufacturing requirements. Course modules cover all of the vehicle’s main domains such as chassis, body, drivetrain, safety, driver assistance systems, and others. Graduates will be proficient in relevant technological areas like vehicle dynamics, energy efficiency, acoustics, mechatronics, structural fatigue, and durability.
                </p>
-               <ul>
-                <li>
-                 Mathematics: Numerical Mathematics
-                </li>
-                <li>
-                 Data Acquisition and Processing
-                </li>
-                <li>
-                 Wind Energy: Wind Turbines, Assessment of Wind Energy Projects
-                </li>
-                <li>
-                 Energy Practice: Lab Work
-                </li>
-                <li>
-                 Bioenergy - Biofuels
-                </li>
-                <li>
-                 Bioenergy - Biogas: Biogas Engineering, Biogas Engineering Lab
-                </li>
-                <li>
-                 Plant Engineering &amp; Project Management
-                </li>
-                <li>
-                 Solar Energy - PV Systems: Photovoltaic System Engineering
-                </li>
-                <li>
-                 Solar Energy Converter: Solar Cells, Solar Thermal Systems
-                </li>
-                <li>
-                 Energy Conversion: Fuel Cells &amp; Batteries, Process Heat
-                </li>
-                <li>
-                 Electrical Engineering: Advanced Electrical Engineering, Power Electronics and Grids
-                </li>
-                <li>
-                 Numerical Simulation for Renewable Energies: Computational Simulation Techniques, Wind Turbine Design with CFD or CFD Simulation for Biogas Plants
-                </li>
-                <li>
-                 Methods &amp; Tools for Advanced Control: Advanced Control Systems (ACS), ACS: Simulation &amp; Optimisation Tools
-                </li>
-                <li>
-                 Project Work
-                </li>
-                <li>
-                 Business Skills: Project Finance, Marketing Strategy
-                </li>
-               </ul>
                <p>
-                Students complete their Master's theses during the third semester.
+                The programme provides in-depth knowledge of industrial design approaches and research topics with regard to real-world vehicle requirements, market developments, and legislative constraints.
                </p>
               </dd>
              </dl>
@@ -385,36 +342,28 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The first two semesters are made up of lectures in small groups, seminars and lab work. Students will complete individual projects on different topics. Set research topics will be completed in the labs.
-                <br/>
-                The Master's thesis is written in the third semester; in most cases in industry, with renewable energy-related companies.
-                <br/>
-                Each semester is awarded a total of 30 credit points. To see course content and module descriptions, please click on the PDF link below.
+                This three-semester programme consists of two semesters of compulsory and elective courses; a 22-week Master's thesis concludes the study programme in the third semester. The courses are taught in English and usually comprise lectures and adjacent exercises as well as a written or an oral examination.
                </p>
-               <a class="c-table__link" href="/app/ip/uploads/files/organisation/online/5ae2d7ab5f5f3370315800.pdf">
-                PDF Download
-               </a>
-              </dd>
-              <dt class="c-description-list__content">
-               Types of assessment
-              </dt>
-              <dd class="c-description-list__content mb-0">
                <p>
-                Written examinations, seminar papers, reports, oral examinations, presentations
+                Compulsory subjects add up to 44 credits (CP), and elective courses amounting to 16 credits (CP) are to be taken within the first two semesters. The Master's thesis itself is worth 30 credits (CP). The students have to earn 90 credit points (CP).
                </p>
-              </dd>
-              <dt class="c-description-list__content">
-               A Diploma supplement will be issued
-              </dt>
-              <dd class="c-description-list__content mb-0">
-               Yes
+               <p>
+                The final grade is the credit-weighted average of all prior modules. They include all modules that were enrolment conditions upon acceptance to the programme (maximum 30 credits [CP]).
+               </p>
               </dd>
               <dt class="c-description-list__content">
                Integrated internships
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The programme does not include an integrated internship, but most students complete their Master's theses in industry.
+                Furthermore, an industrial internship of 20 weeks is to be approved. It has to be completed prior to the registration of the Master's thesis. The internship guidelines can be found on the website of the Faculty of Mechanical Engineering (http://www.maschinenbau.rwth-aachen.de).
+               </p>
+               <p>
+                If you have questions regarding the contents of required internships, please contact the Faculty of Mechanical Engineering Internship Office:
+                <a href="mailto:praktikantenamt@fb4.rwth-aachen.de">
+                 praktikantenamt@fb4.rwth-aachen.de
+                </a>
+                .
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -425,6 +374,52 @@
               </dd>
               <dt class="c-description-list__content">
                Course-specific, integrated English language courses
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               No
+              </dd>
+              <dt class="c-description-list__content">
+               The course of study can be taken entirely online
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               No
+              </dd>
+              <dt class="c-description-list__content">
+               Digital learning and teaching modules
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               <ul class="u-list mt-2">
+                <li>
+                 L²P teaching and learning portal
+                </li>
+               </ul>
+              </dd>
+              <dt class="c-description-list__content">
+               Description of e-learning elements
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               <p>
+                The L²P teaching and learning portal makes it possible for instructors to create virtual teaching rooms for their classes.
+               </p>
+               <p>
+                A virtual teaching room is a protected area that supports teaching and learning by facilitating the exchange of teaching materials and general information. Features include a literature management tool, automatised document digitisation within L²P via the university library, e-mail communication with course participants, teaching materials, e-tests and quizzes, and more.
+               </p>
+              </dd>
+              <dt class="c-description-list__content">
+               Participation in the e-learning course elements is compulsory
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               Yes
+              </dd>
+              <dt class="c-description-list__content">
+               Can ECTS points be acquired by taking the online programmes?
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               No
+              </dd>
+              <dt class="c-description-list__content">
+               Can the e-learning elements be taken without signing up for the course of
+                study?
               </dt>
               <dd class="c-description-list__content mb-0">
                No
@@ -445,27 +440,22 @@
                Semester contribution
               </dt>
               <dd class="c-description-list__content mb-0">
-               There is a semester contribution of approx. 333.50 EUR (as of September 2018). This fee includes a semester ticket for unlimited travel on Hamburg's public transport system.
+               There are no tuition fees at RWTH Aachen, with the exception of the programmes from RWTH Academy. However, each student, including international students, must pay a student body and social contribution fee, which includes the cost of the semester ticket. The exact amount varies each year, but on average it is approx. 260 EUR per semester.
               </dd>
               <dt class="c-description-list__content">
                Costs of living
               </dt>
               <dd class="c-description-list__content mb-0">
-               Hamburg is a relatively expensive city. Depending on your lifestyle, you should expect living costs of 700 to 900 EUR for rent, food, and other expenses.
+               The entire cost of studies and life in Aachen, including rent, insurance, livelihood, etc., is on average at least 800 EUR per month or 9,600 EUR per year.
+               <br/>
+               <br/>
+               Please find more information about general costs via the following website: http://www.rwth-aachen.de/go/id/bqmo/lidx/1
               </dd>
               <dt class="c-description-list__content">
                Funding opportunities within the university
               </dt>
               <dd class="c-description-list__content mb-0">
-               Yes
-              </dd>
-              <dt class="c-description-list__content">
-               Description of the above-mentioned funding opportunities within the university
-              </dt>
-              <dd class="c-description-list__content mb-0">
-               Students can apply for scholarships for academic excellence. They can also apply for an examination scholarship when they are in their final semester as a financial support while completing their Bachelor's or Master's theses. More information can be found here:
-               <br/>
-               http://www.haw-hamburg.de/english
+               No
               </dd>
              </dl>
             </div>
@@ -477,59 +467,122 @@
                Academic Admission Requirements
               </dt>
               <dd class="c-description-list__content mb-0">
+               <p>
+                A Bachelor's degree (or equivalent) in mechanical engineering or automotive engineering (minimum seven semesters) with the following content is required:
+               </p>
                <ul>
                 <li>
-                 Bachelor's degree (or equivalent) in environmental engineering, process engineering or a similar field, with the academic grade equivalent to the German grade 2.5
+                 mechanics
                 </li>
                 <li>
-                 Graduate Record Examination (GRE) for applicants who do not have a Bachelor's qualification from an EU country
+                 machine design
                 </li>
                 <li>
-                 Proof of English (if not first language) - see the language requirements
+                 introduction to CAD
+                </li>
+                <li>
+                 thermodynamics
+                </li>
+                <li>
+                 heat and mass transfer
+                </li>
+                <li>
+                 material science
+                </li>
+                <li>
+                 control engineering
+                </li>
+                <li>
+                 fluid mechanics
+                </li>
+                <li>
+                 mathematics
+                </li>
+                <li>
+                 automotive engineering ("Längsdynamik")
+                </li>
+                <li>
+                 automotive engineering ("Vertikal- und Querdynamik")
+                </li>
+                <li>
+                 internal combustion engine
+                </li>
+                <li>
+                 mechatronic systems in automotive engineering
                 </li>
                </ul>
                <p>
-                Students who completed their school education outside Germany must have their certificates approved by uni-assist (
-                <a href="http://www.uni-assist.de" target="_blank">
-                 http://www.uni-assist.de
-                </a>
-                ) BEFORE applying to the HAW Hamburg. The pre-registration documentation (VPD) from uni-assist must be sent with the application forms, etc., when applying to the HAW Hamburg. Please be advised that this process can take six to eight weeks, so please apply early.
-                <br/>
-                <br/>
-                For more information, see:
-                <a href="http://www.haw-hamburg.de/international-master" target="_blank">
-                 http://www.haw-hamburg.de/international-master
-                </a>
-                .
+                Mandatory requirements for your application:
                </p>
+               <ul>
+                <li>
+                 Tabular resume
+                </li>
+                <li>
+                 transcript of records (Please submit a transcript of records with all of the completed semesters until now. At the time of application, you should be able to submit your transcript of records for all except your last two semesters of study.)
+                </li>
+                <li>
+                 module descriptions (diploma supplement / module catalogue)
+                </li>
+                <li>
+                 supplementary sheet
+                </li>
+                <li>
+                 copy of university completion certificate (if you already have a degree)
+                </li>
+                <li>
+                 evidence of English language skills: copy of language certificate (if you have already taken the exam)
+                </li>
+                <li>
+                 copy of Graduate Record Examination (GRE) General Test certificate (This is only for non-EU/EEA citizens. On the GRE test, you need to have at least the following results: verbal reasoning 145, quantitative reasoning 160, and analytical writing 3.)
+                </li>
+                <li>
+                 Other proof of performance/assessments: additional documents can be attached as well but are not mandatory for your application. These include internship certificates, job references, GATE test, motivation letter, recommendation letters, etc.
+                </li>
+                <li>
+                 Translated documents (only documents in English or German can be considered in the application process). The accuracy of the translation must be notarised by the responsible German diplomatic or consulate representative in your home country (e.g., at a German Embassy) or through a sworn interpreter or translator! You can upload copies of the notarisations. However, the stamp of the notary must be clearly legible. Please upload the original versions of the notarised documents as well.
+                </li>
+               </ul>
               </dd>
               <dt class="c-description-list__content">
                Language requirements
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                All applicants whose first language is not English must provide one of the following language certificates:
-                <br/>
-                TOEFL min. score: 87 (Internet-based)
-                <br/>
-                IELTS min. score: band 5.5
-                <br/>
-                CAE (Cambridge Certificate in Advanced English) min. score: C
-                <br/>
-                CPE (Cambridge Certificate in Proficiency in English) min. score: C
-                <br/>
-                FCE (Cambridge First Certificate) min. score: C
-                <br/>
-                Lectures are in English.
+                German is not a language requirement. We recommend German courses for daily life in Aachen, but it is not mandatory for the application.
                </p>
                <p>
-                Students must include an A2 level German language certificate with their application. This is required for safety as part of communication with lab technicians, etc.
+                The following language tests are accepted as proof of English language skills:
+               </p>
+               <ul>
+                <li>
+                 Test of English as Foreign Language / TOEFL, IBT 90
+                </li>
+                <li>
+                 IELTS: 5.5
+                </li>
+                <li>
+                 Cambridge Test – Certificate of Advanced English CAE
+                </li>
+                <li>
+                 First Certificate in English, FCE for short, grade: B
+                </li>
+                <li>
+                 a certificate certifying English skills at the B2 level of the Common European Frame of Reference for Languages, CEFR. This certificate can be a German Abitur certificate, on which it is clear that a student completed English until the end of Qualification Phase 1 – that is grade 11 for the G8 Abitur, otherwise grade 12 – and completed the subject with at least sufficient performance.
+                </li>
+                <li>
+                 Placement test of the RWTH Aachen Language Center at the B2 level, that is MK 7
+                 <br/>
+                 <strong>
+                  Important Information:
+                 </strong>
+                 Only individuals who are already enrolled as students at RWTH Aachen can obtain this language certificate.
+                </li>
+               </ul>
+               <p style="margin-left:18.0pt">
+                Exempt from having to provide evidence for English language skills are all individuals who have completed an educational qualification in the UK, Ireland, USA, Canada, New Zealand, or Australia.
                 <br/>
-                The only accepted German language certificate is from Goethe Institute, the "Start Deutsch 2" certificate at level A2 (
-                <a href="http://www.goethe.de/lrn/prj/pba/bes/sd2/enindex.htm" target="_blank">
-                 http://www.goethe.de/lrn/prj/pba/bes/sd2/enindex.htm
-                </a>
-                ).
+                Participation in an English-language academic programme in one of the countries listed above does not substitute the language test. Proof that you have studied in an English-language course of study in a country other than one of the countries above is not sufficient! Language tests from other universities will not be accepted either. Certificates and test results from other tests are not accepted either.
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -537,16 +590,23 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The online application is open during the application period only:
-                <a href="http://www.haw-hamburg.de/international-master" target="_blank">
-                 http://www.haw-hamburg.de/international-master
-                </a>
-                <br/>
-                <br/>
-                Application period: 1 April - 15 July
+                The application phase for the winter semester:
                </p>
                <p>
-                Please get your certificates checked by uni-assist first and get a VPD ("Vorprüfungsdokumentation") for your application.
+                <strong>
+                 Non-EU students
+                </strong>
+                (Non-EU/EEA citizens):
+                <br/>
+                4 December – 1 March
+               </p>
+               <p>
+                <strong>
+                 European students
+                </strong>
+                (EU/EEA citizens) and international exchange students who are already enrolled as students at RWTH Aachen University:
+                <br/>
+                7 May – 15 July
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -554,26 +614,11 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                Students must apply online during the application period:
-                <a href="http://www.haw-hamburg.de/international-master" target="_blank">
-                 http://www.haw-hamburg.de/international-master
+                You don’t have to send your application or any documents per e-mail or postal service. Instead please only use the
+                <a href="https://online.rwth-aachen.de/RWTHonline/ee/ui/ca2/app/desktop/#/login/ee/ui/ca2/app/desktop/#/" rel="noopener" target="_blank">
+                 RWTH online application tool
                 </a>
-               </p>
-               <p>
-                Please print off the online application and send it with the necessary documents to:
-                <br/>
-                HAW Hamburg
-                <br/>
-                Admissions Office
-                <br/>
-                Stiftstraße 69
-                <br/>
-                20099 Hamburg
-                <br/>
-                Germany
-               </p>
-               <p>
-                E-mail: master-application@haw-hamburg.de
+                .
                </p>
               </dd>
              </dl>
@@ -587,12 +632,16 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                You should plan to be able to study in Hamburg without having to work part-time. If you are coming on a visa, you will have to provide proof of your finances (697 EUR/month - 8,700 EUR/year).
-                <br/>
-                <br/>
-                EU students can work 20 hours/week.
-                <br/>
-                International students from non-EU countries are only permitted to work 120 days (240 half days) in one calendar year, and part-time job opportunities are limited, especially for students who do not speak German. It is unlikely that we will be able to offer you a job on campus.
+                International students may take up work in the private sector during the semester or in the semester break for up to four months without having obtained a work permit. Students thus may work full time for 120 days or part time (up to four hours per day) for 240 days. This regulation is also stated on the residence permit.
+               </p>
+               <p>
+                During the semester, students are allowed to take up jobs with working hours of up to 19 hours a week. During the semester break, students may work full time but only for a maximum of 13 consecutive weeks. To give an example: A student takes up a job at a restaurant. She or he is scheduled to work for 19 hours per week. According to the regulation stated above, the student is allowed to work for 48 weeks of the year. The student's employer is advised to register the number of days that the student has worked in order to avoid difficulties with the Immigration Office.
+               </p>
+               <p>
+                Student assistants are more flexible with regard to working hours since the aforementioned regulation does not apply. As a student assistant - the so-called "HiWi" - you are allowed to work up to 19 hours per week throughout the year.
+               </p>
+               <p>
+                Please find more information about financial matters and work opportunities via the following website: http://www.rwth-aachen.de/go/id/bqmp/lidx/1
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -600,14 +649,30 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                It is not easy to find accommodation in Hamburg, so please be aware that finding somewhere to live can take a while. The halls of residence in Hamburg are run by the Studierendenwerk Hamburg and offer affordable accommodation for students under the age of 30. Generally, students have their own rooms in an apartment that they share with other students - the bathroom and kitchen are shared. The monthly rent for a room in a student hall of residence starts at roughly 250 EUR (including heating, water, and electricity). At the earliest, new students can apply three months before the start of their degree programme.
+                Unlike in other countries, you are not automatically assigned a place to live when you come to Germany to study. You must independently look for housing and independently apply for a room in a dorm.
                </p>
                <p>
-                Further information on accommodation can be found on the university's website:
-                <br/>
-                <a href="https://www.haw-hamburg.de/english/international-degree-students/campus-life/accommodation.html" target="_blank">
-                 https://www.haw-hamburg.de/english
-                </a>
+                RWTH Aachen University does not own or manage any dorms and thus cannot provide nor guarantee housing. The staff at the International Office can only provide you with information about providers and give you an overview of different options. Here are a few tips to prepare you for apartment hunting in Aachen:
+               </p>
+               <ol>
+                <li>
+                 Begin your search for housing at least three months before you come. Use the numerous addresses and information on our webpages. When searching for an apartment, you can apply to both the private apartment market or to the Studierendenwerk dorms.
+                </li>
+                <li>
+                 In order to increase your chances of finding a room or an apartment, it is important that you are flexible about the location and take the outer districts of Aachen and surrounding cities into consideration. Please note that if you are not a citizen of the EU, the conditions of your visa may not allow you to live outside of Germany.
+                </li>
+                <li>
+                 Reserve a room early on for your first few days or weeks in Aachen – for example, in a hostel or guesthouse. That way, you can be sure that you have short-term housing and can continue to look for permanent housing once you are here.
+                </li>
+               </ol>
+               <p>
+                It is particular challenging for international students to find an apartment or room in Aachen. Are you unfamiliar with the Aachen housing market and don't know exactly where to start your search? What should you take into consideration? We have put together a few tips specifically for international students to answer the most important questions.
+               </p>
+               <p>
+                The availability and demand of the housing market often determine whether you find a private apartment, a shared flat, or a room in a student dorm. Your search can take longer than you expect. You aren't alone though; almost all new students at RWTH are in the same situation. Start your search early and don't be shy about asking for help.
+               </p>
+               <p>
+                http://www.rwth-aachen.de/go/id/hngs/lidx/1
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -615,7 +680,7 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The HAW Hamburg has a Career Service Office that offers advice on working in Germany, finding internships and applying successfully for jobs in Germany.
+                International Academy: https://www.academy.rwth-aachen.de/en/career-services-alumni/career-services
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -630,9 +695,24 @@
                  Buddy programme
                 </li>
                 <li>
-                 Tutors
+                 Visa matters
+                </li>
+                <li>
+                 Other
+                </li>
+                <li>
+                 Specialist counselling
                 </li>
                </ul>
+              </dd>
+              <dt class="c-description-list__content">
+               Support programmes for international students
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               International Office
+               <br/>
+               <br/>
+               http://www.rwth-aachen.de/cms/root/Die-RWTH/Einrichtungen/Verwaltung/Dezernate/~pvd/Internationale-Hochschulbeziehungen/?lidx=1
               </dd>
              </dl>
             </div>
@@ -641,51 +721,64 @@
             <div class="c-profile">
              <h2 class="c-profile__title">
               <span class="c-profile__title-text">
-               Hamburg University of Applied Sciences
+               RWTH Aachen University
               </span>
              </h2>
-             <figure class="c-profile__image-container">
-              <picture>
-               <img alt="Content Bild" class="c-profile__banner" src="https://www.daad.de/app/ip/media/cache/full_web_optimized/uploads/images/university-picture/online/5ae1ccb66a840778680900.jpeg" srcset="https://www.daad.de/app/ip/media/cache/full_web_optimized/uploads/images/university-picture/online/5ae1ccb66a840778680900.jpeg"/>
-              </picture>
-              <figcaption class="c-profile__caption">
-               HAW Hamburg - Campus Bergedorf - Life Sciences
-              </figcaption>
-             </figure>
              <div class="c-profile__container mb-4">
               <div class="c-profile__content">
                <p>
-                Hamburg University of Applied Sciences (HAW Hamburg) is one of the largest of its kind in Germany and within our four faculties we offer a wide range of Bachelor’s and Master’s programmes in engineering, IT, life sciences, design and media as well as business and social sciences. We focus on applied sciences in our teaching, giving our students a practical insight into their fields of study through projects, lab work, internships and theses in industry. Our expertise is drawn from faculty members who have worked in industry before joining the university. In research, we are an important partner for the city of Hamburg’s companies and innovation clusters, developing new ideas from the synergies of this dynamic location.
+                Thinking the Future
                </p>
                <p>
-                Our fields of expertise reflect the technologies, industries and services that make Germany a leading economy, and our close collaboration with Hamburg's innovation clusters allows us to develop this knowledge in our teaching and research.
+                The Excellence Initiative of the German federal and state governments provided a huge boost to the further development of RWTH Aachen University. The institutional strategy on which the successful Excellence Initiative application was based has, in the meantime, been expanded to form a long-term strategy to strengthen all the areas of the University and enhance their profiles. In the process it has gained great momentum, which can be seen, among other things, in the extensive building activities.
                </p>
                <p>
-                We are a very international university, with students from over 100 countries making up 14% of our students. Combined with the international nature of the city of Hamburg, you will feel very comfortable studying here.
+                Visible evidence of this is the
+                <a class="internal" href="http://www.rwth-aachen.de/go/id/ekt/lidx/1">
+                 RWTH Aachen Campus
+                </a>
+                that is being developed in close cooperation with industry and which is to form one of the largest research campuses in Europe. Students and employees of RWTH Aachen will benefit equally from these developments and are expressly invited to get involved in shaping the individual initiatives.
+               </p>
+               <p>
+                The many stimulating ideas already have an impact on the whole urban region of Aachen and the entire tri-border area of Germany, Belgium and the Netherlands. An innovative knowledge community is evolving that is closely networked with some of the world’s leading research and industry partners.
+               </p>
+               <p>
+                RWTH Aachen is a major driving force behind this development. And Aachen, as a liveable and lovable city at the crossroads of three cultures, provides an ideal environment for this creative process of development.
+               </p>
+               <p>
+                RWTH Graduates in High Demand
+               </p>
+               <p>
+                With its 260 institutes in nine faculties, RWTH Aachen is among the leading European scientific and research institutions. 45.377 students in 157 courses of study are registered for the winter semester of 2017/18, including 9.651 international students from 131 countries. Teaching at RWTH Aachen is first and foremost application-oriented. Its graduates are therefore sought-after as junior executives and leaders in business and industry.
+               </p>
+               <p>
+                National
+                <a class="download" href="http://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaafjvzv" target="_blank">
+                 rankings
+                </a>
+                (de) and international assessments attest to the RWTH graduates’ marked ability to handle complex tasks, to solve problems constructively in team work and to take on leadership roles. It is therefore not surprising that many board members of German corporate groups studied at RWTH Aachen.
                </p>
               </div>
               <div class="c-profile__sidebar">
                <picture class="c-detail-header__logo">
-                <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ad9cf5fef7af272626893.png"/>
-                <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ad9cf5fef7af272626893.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ad9cf5fef7af272626893.png"/>
+                <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac339c79afb4782309043.png"/>
+                <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac339c79afb4782309043.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac339c79afb4782309043.png"/>
                </picture>
               </div>
              </div>
              <div class="c-data-visual mb-5">
               <div class="c-data-visual__container">
                <span class="c-data-visual__number">
-                14
                </span>
                <span class="c-data-visual__body">
-                Number of international students in percent
+                45,377 Students in the winter semester of 2017/2018
                </span>
               </div>
               <div class="c-data-visual__container">
                <span class="c-data-visual__number">
-                10
                </span>
                <span class="c-data-visual__body">
-                Hamburg’s ranking in The Economist’s ”World’s Most Liveable Cities“
+                9,651 International students from 125 countries
                </span>
               </div>
              </div>
@@ -695,14 +788,29 @@
              <div class="c-profile__container mb-4">
               <div class="c-profile__content">
                <p>
-                In the North of Germany and in the heart of Europe, Germany’s second largest city (1.8 million) offers excellent quality of life and international flair. If you like to spend your leisure time outdoors, then you will love Europe’s “greenest” city with its lake, canals and beautiful parks. For those of you who love culture, Hamburg’s museums, theatres and its world famous concert hall, the Elbphilharmonie, will inspire you. Hamburg is also one of the most dynamic commercial centres in Europe, placing its strategic focus on six innovative segments: aviation (Airbus), IT and media, the international port and logistics, life sciences (biotechnology, medical technology and health care), nanotechnology, and renewable energies. The Economist ranks Hamburg as one of the Top Ten most liveable cities in the world, so we are sure you will feel at home.
+                Many new products and processes originate in Aachen. In the research laboratories and testing facilities of RWTH, for example, the first all-metal aircraft was developed, as was the diesel soot filter. This is where the first wind tunnel stood and the first particle accelerator.
+               </p>
+               <p>
+                This trend-setting innovative capacity and the practical technology transfer to the economic world have a long history in Aachen, the City of Science. Here the first German Technology Development Center opened in 1982. With its business start-ups and the approximately 32,000 jobs created as a result, Aachen has become the city with the highest density of university spin-offs and engineering offices in Germany.
+               </p>
+               <p>
+                Science has defined the structural change from a mining area to a technology region and today it is the most important economic factor. More than 50,000 people study and teach at the four universities and colleges in the Aachen region. Because of the academic expertise here, Forschungszentrum Jülich and numerous research centers of international corporate groups have been established in and around Aachen, making the urban region a Silicon Valley at the heart of Europe.
+               </p>
+               <p>
+                Aachen, known as an “Europastadt” (City of Europe), is Germany’s westernmost major city at whose city boundaries three nations with three languages converge. It is the centre of a dynamic, cross-border knowledge region and stands for world-class university education in Natural Sciences and Engineering.
+               </p>
+               <p>
+                A total of 8,556 international RWTH students from 128 countries, along with the close contacts the University has with many registered alumni, give the scientific center of Aachen an international atmosphere.
+               </p>
+               <p>
+                Teaching and research are also reflected in the image of the city. Thanks to the students and their diverse cultural life, the tradition-rich City of Aachen has a lively and young appearance, particularly in the student quarter of Pontviertel. Its proximity to the Eifel and the Ardennes, to Maastricht and Brussels with their linguistic and cultural distinctiveness, give the city that lies in the shadow of Charlemagne’s palace chapel a particular charm. Anyone who has been here once, according to a study by the Prognos consultancy, keeps coming back...
                </p>
               </div>
              </div>
              <div class="c-map mb-5">
-              <div class="js-google-map c-map__container" data-address="Hochschule für Angewandte Wissenschaften Hamburg&lt;br /&gt;
-Berliner Tor 5&lt;br /&gt;
-20099 Hamburg" data-apikey="AIzaSyBHT2SqhWHUrjuc-tJONFK9inelzALSPy0" data-markericon="/app/ip/bundles/frontend/images/google/marker.svg" id="map">
+              <div class="js-google-map c-map__container" data-address="RWTH Aachen&lt;br /&gt;
+Templergraben 55&lt;br /&gt;
+52062 Aachen" data-apikey="AIzaSyBHT2SqhWHUrjuc-tJONFK9inelzALSPy0" data-markericon="/app/ip/bundles/frontend/images/google/marker.svg" id="map">
               </div>
              </div>
             </div>
@@ -719,18 +827,19 @@ Berliner Tor 5&lt;br /&gt;
               Contact
              </h3>
              <p class="mb-0 c-contact__location c-contact__location--title">
-              Hamburg University of Applied Sciences
+              RWTH Aachen University
              </p>
              <p class="c-contact__location">
-              Faculty of Life Sciences
-              <br/>
-              Department of Environmental Engineering
+              Institute for Automotive Engineering (ika)
              </p>
+             <h4 class="c-contact__asp">
+              Michael Kwade
+             </h4>
              <div class="c-contact__content">
               <p class="mb-1 c-contact__address">
-               Ulmenliet 20
+               Steinbachstr. 7
                <br/>
-               21033 Hamburg
+               52074 Aachen
                <br/>
               </p>
               <dl class="d-md-flex flex-wrap pb-1 mb-2 c-contact__links">
@@ -747,7 +856,7 @@ Berliner Tor 5&lt;br /&gt;
                 </svg>
                </dt>
                <dd class="d-block d-inline-block mb-0 pb-3 pb-md-0 c-contact__mailaddress">
-                <a class="btn btn-primary btn-block c-contact__link writeEmail" href="mailto:master-res@haw-hamburg.de">
+                <a class="btn btn-primary btn-block c-contact__link writeEmail" href="mailto:masterprog@ika.rwth-aachen.de">
                  Email
                 </a>
                </dd>
@@ -764,14 +873,14 @@ Berliner Tor 5&lt;br /&gt;
                 </svg>
                </dt>
                <dd class="d-block d-inline-block mb-2 mb-md-0 pb-md-0 c-contact__url">
-                <a class="btn btn-primary btn-block c-contact__link visitCourseWebsite" href="http://www.haw-hamburg.de/international-master" target="_blank" title="site opens in a new tab">
+                <a class="btn btn-primary btn-block c-contact__link visitCourseWebsite" href="https://www.ika.rwth-aachen.de/en/education/students/automotive-engineering-msc.html" target="_blank" title="site opens in a new tab">
                  Course website
                 </a>
                </dd>
               </dl>
               <ul class="list-inline d-flex mb-0 c-social-list">
                <li class="list-inline-item text-dark c-social-list__item">
-                <a aria-label="on Facebook" class="d-block text-dark c-social-list__link" href="https://www.facebook.com/HAWHamburg.InternationaleStudierende">
+                <a aria-label="on Facebook" class="d-block text-dark c-social-list__link" href="https://www.facebook.com/RWTH.ika/">
                  <span aria-hidden="true" class="fa-stack">
                   <i class="fa fa-circle fa-stack-2x">
                   </i>
@@ -781,7 +890,17 @@ Berliner Tor 5&lt;br /&gt;
                 </a>
                </li>
                <li class="list-inline-item text-dark c-social-list__item">
-                <a aria-label="on Instagram" class="d-block text-dark c-social-list__link" href="https://www.instagram.com/hawinternational/">
+                <a aria-label="on LinkedIn" class="d-block text-dark c-social-list__link" href="https://de.linkedin.com/company/institut-f-r-kraftfahrwesen-aachen-ika-">
+                 <span aria-hidden="true" class="fa-stack">
+                  <i class="fa fa-circle fa-stack-2x">
+                  </i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse">
+                  </i>
+                 </span>
+                </a>
+               </li>
+               <li class="list-inline-item text-dark c-social-list__item">
+                <a aria-label="on Instagram" class="d-block text-dark c-social-list__link" href="https://www.instagram.com/rwthaachenuniversity/?hl=de">
                  <span aria-hidden="true" class="fa-stack">
                   <i class="fa fa-circle fa-stack-2x">
                   </i>
@@ -791,53 +910,6 @@ Berliner Tor 5&lt;br /&gt;
                 </a>
                </li>
               </ul>
-             </div>
-            </div>
-           </div>
-           <div class="col-12 col-md-6 col-lg-12">
-            <div class="card mb-5 c-teaser c-teaser__testimonial">
-             <picture>
-              <img alt="Priyanka Mascarenhas" class="card-img-top" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/testimonial-picture/online/5ae068c0c8ada299620861.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/testimonial-picture/online/5ae068c0c8ada299620861.jpeg"/>
-             </picture>
-             <div class="card-body p-0">
-              <span class="c-teaser__copyright bg-primary text-right text-white pt-2 px-2">
-               I. Weatherall
-              </span>
-              <h3 class="card-title text-white bg-primary px-3 pt-1 pb-4 c-teaser__title">
-               <cite>
-                Priyanka Mascarenhas
-               </cite>
-               <span class="d-block c-teaser__body">
-                MEng Renewable Energy Systems
-               </span>
-              </h3>
-              <blockquote class="card-text px-3 pt-1 blockquote">
-               <p>
-                The classes are really interesting because they are so close to current developments in industry. Our professors have all worked in industry, so their lectures are full of practical examples and you will feel you know exactly what is happening in the field of renewable energies. Solar energy and photovoltaics are my favourite topics, but I am also looking forward to learning more about wind energy and biofuels. Hamburg is a centre for innovation in renewable energies, so it's great to be here.
-               </p>
-              </blockquote>
-             </div>
-            </div>
-           </div>
-           <div class="col-12 col-md-6 col-lg-12">
-            <div class="card mb-5 pb-4 c-teaser c-teaser--video">
-             <a class="d-block c-teaser__picto tracking-video-teaser" href="https://youtu.be/aAg9rJYk700">
-              <picture>
-               <img alt="Study Renewable Energy Systems" class="card-img-top" src="https://www.daad.de/app/ip/media/cache/16_9_300px/uploads/images/video/online/5aec20585b051167605064.jpeg" srcset="https://www.daad.de/app/ip/media/cache/16_9_300px/uploads/images/video/online/5aec20585b051167605064.jpeg"/>
-              </picture>
-             </a>
-             <div class="card-body p-0">
-              <h3 class="card-title px-3 pt-3 pb-0 c-teaser__title">
-               Study Renewable Energy Systems
-              </h3>
-              <p class="card-text px-3 pt-1 pb-1">
-               This is a video portrait of Priyanka Mascarenhas talking about her experiences in the Master's programme and in Hamburg.
-              </p>
-              <p class="px-3 mb-0 text-right">
-               <a class="c-teaser__link tracking-video-teaser" href="https://youtu.be/aAg9rJYk700">
-                more
-               </a>
-              </p>
              </div>
             </div>
            </div>
@@ -861,7 +933,7 @@ Berliner Tor 5&lt;br /&gt;
         </h2>
         <ul class="list-inline d-flex justify-content-center mb-0 c-social-share__items">
          <li class="list-inline-item mr-3 c-social-share__item">
-          <a aria-label="Share on Facebook" class="d-inline-block c-social-share__link c-social-share--facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4059/" target="_blank">
+          <a aria-label="Share on Facebook" class="d-inline-block c-social-share__link c-social-share--facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4599/" target="_blank">
            <span aria-hidden="true" class="fa-stack fa-lg">
             <i class="fa fa-square fa-stack-2x">
             </i>
@@ -871,7 +943,7 @@ Berliner Tor 5&lt;br /&gt;
           </a>
          </li>
          <li class="list-inline-item mr-3 c-social-share__item">
-          <a aria-label="Share on Twitter" class="d-inline-block c-social-share__link c-social-share--twitter" href="https://www.twitter.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4059/" target="_blank">
+          <a aria-label="Share on Twitter" class="d-inline-block c-social-share__link c-social-share--twitter" href="https://www.twitter.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4599/" target="_blank">
            <span aria-hidden="true" class="fa-stack fa-lg">
             <i class="fa fa-square fa-stack-2x">
             </i>
@@ -881,7 +953,7 @@ Berliner Tor 5&lt;br /&gt;
           </a>
          </li>
          <li class="list-inline-item mr-3 c-social-share__item">
-          <a aria-label="Share on Google+" class="d-inline-block c-social-share__link c-social-share--googleplus" href="https://plus.google.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4059/" target="_blank">
+          <a aria-label="Share on Google+" class="d-inline-block c-social-share__link c-social-share--googleplus" href="https://plus.google.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4599/" target="_blank">
            <span aria-hidden="true" class="fa-stack fa-lg">
             <i class="fa fa-square fa-stack-2x">
             </i>
@@ -981,7 +1053,7 @@ Berliner Tor 5&lt;br /&gt;
     </div>
    </div>
   </div>
-  <script src="/app/ip/build/app.dbf43d724164f1c2e38a.js" type="text/javascript">
+  <script src="/app/ip/build/app.410f4cf0e2dbdb8a1545.js" type="text/javascript">
   </script>
  </body>
 </html>

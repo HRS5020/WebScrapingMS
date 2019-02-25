@@ -17,6 +17,7 @@ import time
 from  collections import OrderedDict
 from selenium import webdriver
 
+starttime = time.time()
 '''
 
 PART - 1 - Get links of the courses of your desired category
@@ -25,9 +26,9 @@ PART - 1 - Get links of the courses of your desired category
 
 #Enter the result url from daad.de for which you need to all the course links and details    
 urlpage = input('Enter Url :')
-print(urlpage)
+print("------------------------------------------------------------")
 print("PART - 1 - Get links of the courses of your desired category")
-
+print("------------------------------------------------------------")
 
 #save landing page html to .py file
 def courselist_html(url, pagename):
@@ -36,7 +37,7 @@ def courselist_html(url, pagename):
     time.sleep(30)
     innerHTML = driver.execute_script("return document.body.innerHTML")
     soup = BeautifulSoup(innerHTML, 'html.parser')
-    tempfile = 'F:\Harsh docs\python\Daad\%s'%pagename
+    tempfile = 'F:\HarshDocs\python\WebScrapingMS\data\%s'%pagename
     f= open(tempfile,"w")
     f.write(soup.prettify())
     f.close()
@@ -48,8 +49,7 @@ def number_of_courses(filename):
     soup = BeautifulSoup(str(f.read()), 'html.parser')
     view = soup.find('h2', attrs={"class":"c-result-header__title js-result-header-title"})
     result = view.text.strip(" \t\n\r").split(' ', 1)[0]
-    print(result)
-    print("--------------------------------------")
+    print(result + "courses found")
     f.close()
     return(result)
 
@@ -75,7 +75,7 @@ for i in range(totalresult):
 
 # extract all 10 course links from individual result page
 for i,j in enumerate(links):
-    print('saving the html results page to ' + str(i) +'resultspage.py')
+    print('Saving the html results page to ' + str(i) +'resultspage.py')
     extract_course_links(courselist_html(str(j), str(i)+'page.py'), rowdetails)
     time.sleep(30)
 
@@ -94,8 +94,9 @@ print ("PART - 1 - Complete!!")
 PART - 2 - Extract all the details of particular course and add it in excel sheet
 
 '''
-
+print("------------------------------------------------------------")
 print ("PART - 2 - Extract all the details of particular course and add it in excel sheet")
+print("------------------------------------------------------------")
 
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
@@ -108,10 +109,11 @@ def fetch_html(fullurl,contextstring, page):
     print("HTTP status",uh.getcode())
     html =uh.read().decode()
     bs = BeautifulSoup(html, 'html.parser')
-    coursehtml = str("F:\Harsh docs\python\Daad\course"+page+".py")
+    coursehtml = str("F:\HarshDocs\python\WebScrapingMS\data\course"+page+".py")
     f= open(coursehtml, 'w', encoding="utf-8")
     f.write(bs.prettify())
     print("Saved to " + coursehtml)
+    print("--")
     f.close()
     return bs
 
@@ -166,11 +168,8 @@ def services(soup,excel):
         excel.update({i.text.strip(" \t\n\r\br") : j.text.strip(" \t\n\r\br")})
 
 # read the courselinks file
-
 # call functions and append whole dictionary of particular course to the original list 
 final_list = []    
-   
-
 for j,i in enumerate(rowdetails):
     time.sleep(30)
     coursecontent = {} 
@@ -189,10 +188,12 @@ for j,i in enumerate(rowdetails):
     
 # save it to excel file from original list 
 pds = pd.DataFrame(final_list)
-pds.to_excel("F:\Harsh docs\python\Daad\All_Details.xlsx") 
-print("File has been saved to F:\Harsh docs\python\Daad\All_Details.xlsx")
-
-print ("PART - 2 - Complete!! Your CSV file is Ready!!")
-
+pds.to_excel("F:\HarshDocs\python\WebScrapingMS\All_Details.xlsx") 
+print("File has been saved to F:\HarshDocs\python\WebScrapingMS\All_Details.xlsx")
+print ("PART - 2 - Complete!!")
+print("------------------------------------------------------------")
+print ("Your CSV file is Ready!!")
+print("------------------------------------------------------------")
+print("Script Finished: %.4f sec" % (time.time() - starttime))
 #15 result --- https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?q=&degree%5B%5D=2&lang%5B%5D=2&fos=3&crossFac=&cert=&admReq=&scholarshipLC=&scholarshipSC=&langDeAvailable=&langEnAvailable=&lvlEn%5B%5D=&cit%5B%5D=&tyi%5B%5D=1&tyi%5B%5D=2&fee=0&bgn%5B%5D=1&dur%5B%5D=0-63070000&sort=4&ins%5B%5D=&subjects%5B%5D=15&limit=10&offset=&display=list
 #03 result --- https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?q=&degree%5B%5D=2&lang%5B%5D=2&fos=3&crossFac=&cert=&admReq=&scholarshipLC=&scholarshipSC=&langDeAvailable=&langEnAvailable=&lvlEn%5B%5D=&cit%5B%5D=&tyi%5B%5D=1&fee=0&bgn%5B%5D=1&dur%5B%5D=0-63070000&sort=4&ins%5B%5D=&subjects%5B%5D=15&limit=10&offset=&display=list

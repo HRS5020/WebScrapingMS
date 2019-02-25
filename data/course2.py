@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
   <title>
-   Process Engineering and Energy Technology
+   Systems Engineering in Manufacturing
   </title>
   <!-- Google Tag Manager -->
   <script>
@@ -15,7 +15,7 @@
         })(window,document,'script','dataLayer','GTM-K86WX9W');
   </script>
   <!-- End Google Tag Manager -->
-  <link href="/app/ip/build/app.de9960923e6850e2d7eb.css" rel="stylesheet"/>
+  <link href="/app/ip/build/app.2894efc26a1846dc6a23.css" rel="stylesheet"/>
  </head>
  <body class="o-page">
   <!-- Google Tag Manager (noscript) -->
@@ -156,22 +156,22 @@
       <div class="col-12">
        <div class="c-detail-header">
         <picture class="c-detail-header__logo">
-         <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5acf144394c72689112430.png"/>
-         <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5acf144394c72689112430.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5acf144394c72689112430.png"/>
+         <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac6049241809349315766.png"/>
+         <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac6049241809349315766.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac6049241809349315766.png"/>
         </picture>
         <div class="c-detail-header__content">
          <h2 class="c-detail-header__title">
           <span class="d-none d-sm-block">
-           Process Engineering and Energy Technology
+           Systems Engineering in Manufacturing
           </span>
           <span class="d-sm-none">
-           Process Engineering and Energy Technology
+           Systems Engineering in Manufacturing
           </span>
          </h2>
          <h3 class="c-detail-header__subtitle">
-          University of Applied Sciences Bremerhaven
+          Otto von Guericke University Magdeburg
           <span class="c-detail-header__info">
-           • Bremerhaven
+           • Magdeburg
           </span>
          </h3>
         </div>
@@ -189,15 +189,15 @@
            <div class="c-article-functions">
             <ul class="list-inline d-flex align-items-center">
              <li class="list-inline-item">
-              <a aria-label="bookmark" class="c-article-functions__item c-article-functions__item--bookmark js-add-to-watchlist" data-id="4068" data-remove-title="unbookmark" data-title="bookmark" href="#" title="bookmark">
+              <a aria-label="bookmark" class="c-article-functions__item c-article-functions__item--bookmark js-add-to-watchlist" data-id="4827" data-remove-title="unbookmark" data-title="bookmark" href="#" title="bookmark">
               </a>
              </li>
              <li class="list-inline-item">
-              <a aria-label="compare" class="c-article-functions__item c-article-functions__item--compare js-add-to-compare-list" data-course-type="2" data-id="4068" data-remove-title="uncompare" data-title="compare" href="#" title="compare">
+              <a aria-label="compare" class="c-article-functions__item c-article-functions__item--compare js-add-to-compare-list" data-course-type="2" data-id="4827" data-remove-title="uncompare" data-title="compare" href="#" title="compare">
               </a>
              </li>
              <li class="list-inline-item">
-              <a aria-label="map" class="c-article-functions__item c-article-functions__item--map js-to-google-map-link" data-id="4068" href="/deutschland/studienangebote/international-programmes/en/result/" title="map">
+              <a aria-label="map" class="c-article-functions__item c-article-functions__item--map js-to-google-map-link" data-id="4827" href="/deutschland/studienangebote/international-programmes/en/result/" title="map">
               </a>
              </li>
             </ul>
@@ -255,7 +255,7 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                Courses are held in English (100%). Participants can choose to write their Master's theses in either the English or the German language.
+                Courses are held in English only.
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -268,56 +268,14 @@
                Beginning
               </dt>
               <dd class="c-description-list__content mb-0">
-               Winter and summer semester
-              </dd>
-              <dt class="c-description-list__content">
-               More information on beginning of studies
-              </dt>
-              <dd class="c-description-list__content mb-0">
-               Most applicants with a non-European Bachelor's degree must participate in our adaptation/bridge semester (30 ECTS) - only offered in the winter semester!
+               Winter semester
               </dd>
               <dt class="c-description-list__content">
                Application deadline
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                For applicants with a non-European Bachelor's degree:
-                <br/>
-                31 May for the following winter semester
-                <br/>
-                30 November for the following summer semester
-                <br/>
-                The online application procedure is via uni-assist. See:
-                <a href="http://www.uni-assist.de/masters-degree-programme.html" target="_blank">
-                 http://www.uni-assist.de/masters-degree-programme.html
-                </a>
-               </p>
-               <p>
-                For applicants with a European Bachelor's degree:
-                <br/>
-                15 July for the next winter semester
-                <br/>
-                15 January for the next summer semester
-               </p>
-               <p>
-                For the
-                <strong>
-                 European
-                </strong>
-                application procedure, see:
-                <a href="http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/application-and-matriculation/" target="_blank">
-                 http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/application-and-matriculation/
-                </a>
-               </p>
-               <p>
-                For the
-                <strong>
-                 non-European
-                </strong>
-                application procedure, see:
-                <a href="http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/application-and-matriculation/" target="_blank">
-                 http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/non-eu-applicants/
-                </a>
+                Winter semester: 15 July (for international applicants)
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -343,42 +301,10 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The practice-oriented Master's course in Process Engineering and Energy Technology (PEET) is
-                <strong>
-                 based on a Bachelor's degree in chemical engineering
-                </strong>
-                (or related) and is designed as follows:
+                The objective of the Master's programme System Engineering in Manufacturing is to provide a broad yet detailed perspective and critical view on the interdisciplinary scientific fields relevant for engineering and the use of production systems. It provides knowledge and skills for the cross-site development of new production systems while keeping in mind the products to be manufactured as well as the lifecycle management of production systems.
                </p>
-               <ul>
-                <li>
-                 90 ECTS CPs (min. three semesters), starting from a Bachelor's degree equivalent to 210 ECTS CPs
-                </li>
-                <li>
-                 30 + 90 ECTS credit points (min. four semesters), starting from a Bachelor's degree equivalent to 180 ECTS CPs
-                </li>
-               </ul>
                <p>
-                Internationality as well as the application of modern teaching methods are placed in focus. Special focus is placed on the teaching of key competencies.
-               </p>
-               <ul>
-                <li>
-                 100% of the syllabus is taught in English.
-                </li>
-                <li>
-                 Student exchanges and exchanges with universities abroad
-                </li>
-                <li>
-                 Master's thesis undertaken at home or abroad with a foreign professor
-                </li>
-                <li>
-                 Teaching of interdisciplinary qualifications (e.g., sales &amp; marketing)
-                </li>
-                <li>
-                 Practical exercises to complement the lecture programme
-                </li>
-               </ul>
-               <p>
-                This Process Engineering Master's course focuses on current topics such as renewable energy, energy efficiency, and environmental technology. Successful completion of the Master's course with the title of "Master of Science" entitles the graduate to study for a doctorate (PhD).
+                The Master's programme provides the methodical basis for engineering production systems. It provides expertise for the control of production systems. It also enables the identification and meaningful application of dependencies between different parts and/or aspects of production systems.
                </p>
               </dd>
              </dl>
@@ -392,115 +318,33 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                The Master's course in Process Engineering and Energy Technology (PEET) is based on a Bachelor's degree in chemical engineering (or a similar degree close to it) and is structured as follows:
+                The Master's programme consists of compulsory, compulsory elective, and elective courses. It also includes project work and the Master's thesis.
                </p>
                <p>
-                <strong>
-                 First semester:
-                </strong>
+                The first two semesters focus on the main fields of product and production systems, delivering insight into their dependencies and interactions. The course programme of the first and second semesters include the following:
                </p>
                <ul>
                 <li>
-                 Numerical Mathematics
+                 the scientific fields of mechanics
                 </li>
                 <li>
-                 Simulation of Process Control
+                 digital systems
                 </li>
                 <li>
-                 Calculation of Material Properties
+                 automation
                 </li>
                 <li>
-                 Measurement of Properties
+                 logistics
                 </li>
                 <li>
-                 Advanced Energy Conversion
+                 material sciences
                 </li>
                 <li>
-                 Fundamentals of Solar Energy
-                </li>
-                <li>
-                 Wind Energy
-                </li>
-                <li>
-                 Electrochemical Processes (Corrosion, Fuel Cells, etc.)
-                </li>
-                <li>
-                 Master Leadership for Project and Laboratory Skills
-                </li>
-                <li>
-                 Nanotechnology
-                </li>
-                <li>
-                 Advanced Thermal Processes
+                 methodological crossing areas like systems engineering and mechatronics
                 </li>
                </ul>
                <p>
-                <strong>
-                 Second semester:
-                </strong>
-               </p>
-               <ul>
-                <li>
-                 Simulation of Process Plants
-                </li>
-                <li>
-                 Energy from Biomass
-                </li>
-                <li>
-                 Electrochemical Processes (Corrosion, Fuel Cells, etc.)
-                </li>
-                <li>
-                 Research Seminar
-                </li>
-                <li>
-                 Nanotechnology Lab
-                </li>
-                <li>
-                 Advanced Thermal Processes Lab
-                </li>
-                <li>
-                 Domestic and Industrial Environmental Protection Technologies
-                </li>
-                <li>
-                 Sea Water Desalination
-                </li>
-                <li>
-                 Chemical Reactions and Gasification
-                </li>
-               </ul>
-               <p>
-                <strong>
-                 Third semester:
-                </strong>
-               </p>
-               <ul>
-                <li>
-                 Master's thesis project
-                </li>
-               </ul>
-              </dd>
-              <dt class="c-description-list__content">
-               A Diploma supplement will be issued
-              </dt>
-              <dd class="c-description-list__content mb-0">
-               Yes
-              </dd>
-              <dt class="c-description-list__content">
-               International elements
-              </dt>
-              <dd class="c-description-list__content mb-0">
-               <ul class="u-list mt-2">
-                <li>
-                 Other
-                </li>
-               </ul>
-              </dd>
-              <dt class="c-description-list__content">
-               Description of other international elements
-              </dt>
-              <dd class="c-description-list__content mb-0">
-               <p>
-                Master's thesis projects, in industry or research organisations, are possible in Germany and abroad.
+                In the third semester, the students concentrate on the development of a Master's thesis. This further deepens their expertise in the chosen area and demonstrates their ability to independently conduct qualified work in an academic as well as an industrial field.
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -531,31 +375,27 @@
                Semester contribution
               </dt>
               <dd class="c-description-list__content mb-0">
-               364 EUR (e.g., winter semester 2018/2019). The fee includes a semester ticket covering public transport in the Bremerhaven and Bremen metropolitan area.
+               Currently, the semester fee is approx. 105 EUR. It covers services offered by the "Studentenwerk" (student union) and the student representatives. Enrolled students receive a semester ticket for free use of public transport, student discounts in the campus cafeteria, etc.
               </dd>
               <dt class="c-description-list__content">
                Costs of living
               </dt>
               <dd class="c-description-list__content mb-0">
-               Living costs in Bremerhaven are rather low in comparison to other German cities. The estimated amount of 600-750 EUR per month should be sufficient to cover basic expenditures. However, the amount of money spent by the student depends very strongly on her/his standard of living.
+               A minimum of 720 EUR per month must be budgeted for accommodation, cost of living, health insurance, books, and miscellaneous expenses. In comparison with many other towns and cities, the rental prices in Magdeburg are relatively low. There are no tuition fees, and the semester fee already includes the cost of bus and tram travel within Magdeburg.
                <br/>
-               Here is a rough estimation of monthly costs:
-               <br/>
-               - health insurance: 80 EUR (for non-EU applicants)
-               <br/>
-               - rent: 170-300 EUR
-               <br/>
-               - food and clothing: 250 EUR
-               <br/>
-               - telephone and internet: 40 EUR
-               <br/>
-               - books: 50 EUR
+               The following links provide a fair picture of living costs in Magdeburg: https://www.numbeo.com/cost-of-living/in/Magdeburg and http://www.mylifeelsewhere.com/cost-of-living/magdeburg-c5920.
               </dd>
               <dt class="c-description-list__content">
                Funding opportunities within the university
               </dt>
               <dd class="c-description-list__content mb-0">
-               No
+               Yes
+              </dd>
+              <dt class="c-description-list__content">
+               Description of the above-mentioned funding opportunities within the university
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               The university provides a limited number of excellence scholarships. Eligible candidates are students in advanced semesters who clearly show above-average results. Scholarships cannot be provided for new students.
               </dd>
              </dl>
             </div>
@@ -568,86 +408,65 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                An applicant to the Process Engineering and Energy Technology (PEET) Master's programme must fulfil the following requirements:
+                Applicants must have obtained a Bachelor's degree (210 credit points) in engineering or in a closely related field.
                 <br/>
-                a) an academic degree in a field relevant to the PEET course content
-                <br/>
-                b1) a Bachelor's degree equivalent to 210 ECTS credit points
-                <br/>
-                b2) a Bachelor's degree equivalent to 180 ECTS credit points
-                <br/>
-                c) the final grade for the Bachelor's degree must be at least "good" (German grade 2.3 or equivalent)
-                <br/>
-                d) good language skills, see:
-                <a href="http://www.fremdsprachenzentrum-bremen.de/1072.0.html?&amp;MP=1072-2031&amp;L=1" target="_blank">
-                 http://www.fremdsprachenzentrum-bremen.de/1072.0.html?&amp;MP=1072-2031&amp;L=1
-                </a>
-                <br/>
-                e) two reference letters from referees who can appraise the academic abilities and motivation of the applicant
-                <br/>
-                f) an individual letter of motivation
+                The Bachelor's degree has to include the following:
                </p>
+               <ul>
+                <li>
+                 at least 25 CP (credit points) in natural sciences and informatics (including at least 10 CP in mathematics, at least 5 CP in physics, and at least 5 CP in information sciences)
+                </li>
+                <li>
+                 at least 10 CP in design
+                </li>
+                <li>
+                 at least 10 CP in engineering mechanics
+                </li>
+                <li>
+                 at least 20 CP in engineering sciences (including at least 5 CP in manufacturing technologies, at least 5 CP in material sciences)
+                </li>
+                <li>
+                 at least 15 CP in economics
+                </li>
+                <li>
+                 altogether 10 weeks of a production system-oriented internship within industry and business
+                </li>
+               </ul>
               </dd>
               <dt class="c-description-list__content">
                Language requirements
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                Applicants must provide proof of their German and English skills according to CEF (Common European Framework of Reference):
-                <br/>
-                German level A1
-                <br/>
-                English level C1 (exceptions: English native speakers and/or a preceding Bachelor's study programme taught 100% in English)
-                <br/>
-                <br/>
-                For CEF equivalents, see:
-                <a href="http://www.fremdsprachenzentrum-bremen.de/1072.0.html?&amp;MP=1072-2031&amp;L=1" target="_blank">
-                 http://www.fremdsprachenzentrum-bremen.de/1072.0.html?&amp;MP=1072-2031&amp;L=1
-                </a>
+                Adequate English language skills must be demonstrated through one of the following:
                </p>
+               <ul>
+                <li>
+                 TOEFL test (minimum score: paper-based 550, computer-based 213, Internet-based 79)
+                </li>
+                <li>
+                 TOEIC (Test of English for International Communication), minimum score 785
+                </li>
+                <li>
+                 IELTS (minimum score: 7.0)
+                </li>
+                <li>
+                 Cambridge Certificate of Proficiency in English (CPE) with at least C1
+                </li>
+                <li>
+                 Cambridge Certificate of Advanced English (CAE) with at least Grade C
+                </li>
+                <li>
+                 UNIcert III
+                </li>
+               </ul>
               </dd>
               <dt class="c-description-list__content">
                Application deadline
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                For applicants with a non-European Bachelor's degree:
-                <br/>
-                31 May for the following winter semester
-                <br/>
-                30 November for the following summer semester
-                <br/>
-                The online application procedure is via uni-assist. See:
-                <a href="http://www.uni-assist.de/masters-degree-programme.html" target="_blank">
-                 http://www.uni-assist.de/masters-degree-programme.html
-                </a>
-               </p>
-               <p>
-                For applicants with a European Bachelor's degree:
-                <br/>
-                15 July for the next winter semester
-                <br/>
-                15 January for the next summer semester
-               </p>
-               <p>
-                For the
-                <strong>
-                 European
-                </strong>
-                application procedure, see:
-                <a href="http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/application-and-matriculation/" target="_blank">
-                 http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/application-and-matriculation/
-                </a>
-               </p>
-               <p>
-                For the
-                <strong>
-                 non-European
-                </strong>
-                application procedure, see:
-                <a href="http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/application-and-matriculation/" target="_blank">
-                 http://www.hs-bremerhaven.de/en/organisation/departments/registration-and-examination-office/non-eu-applicants/
-                </a>
+                Winter semester: 15 July (for international applicants)
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -655,13 +474,18 @@
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                Hochschule Bremerhaven
+                Otto-von-Guericke-Universität Magdeburg
                 <br/>
-                c/o uni-assist e.V.
+                c/o uni-assist e. V.
                 <br/>
                 11507 Berlin
                 <br/>
                 Germany
+               </p>
+               <p>
+                <a href="http://www.uni-assist.de">
+                 www.uni-assist.de
+                </a>
                </p>
               </dd>
              </dl>
@@ -671,19 +495,29 @@
             <div class="container">
              <dl class="c-description-list c-description-list--striped">
               <dt class="c-description-list__content">
+               Possibility of finding part-time employment
+              </dt>
+              <dd class="c-description-list__content mb-0">
+               <p>
+                It is possible to find a part-time job as a research or student assistant at one of the faculties or at the university administration (maximum: 80 hours per month). Other opportunities are student jobs at different companies, restaurants, and shops. Job announcements for students are usually listed on our website under:
+                <a href="http://www.ovgu.de/-p-26086.html">
+                 student jobs
+                </a>
+                .
+               </p>
+              </dd>
+              <dt class="c-description-list__content">
                Accommodation
               </dt>
               <dd class="c-description-list__content mb-0">
                <p>
-                Accommodation is available through the Student Service Office (Studentenwerk Bremen) or on the private market. Rent for a single room in a dorm is approx. 180-255 EUR. A single or two-room flat costs approx. 170-300 EUR. Private accommodation can be found on the Internet at:
-                <a href="http://www.hs-bremerhaven.de/en/organisation/departments/international-office/incoming-students/your-stay-in-bremerhaven/accommodation" target="_blank">
-                 http://www.hs-bremerhaven.de/en/organisation/departments/international-office/incoming-students/your-stay-in-bremerhaven/accommodation
-                </a>
-                and
-                <a href="http://www.astaonline.de/web3/index.php/de/services/wohnungen/privat" target="_blank">
-                 http://www.astaonline.de/web3/index.php/de/services/wohnungen/privat
+                The "Studentenwerk" (student union) in Magdeburg manages the on-campus halls of residence (mostly one- to four-room apartments). Currently, the monthly rent ranges from 220-350 EUR per room (approx. 12-35 square meters), depending on the size and furnishing. Rooms in the halls of residence are limited in number. The accommodation request can be found here:
+                <a href="https://www.studentenwerk-magdeburg.de/en/accommodation/accommodation-form/">
+                 accommodation form
                 </a>
                 .
+                <br/>
+                The student union assists all new students in finding adequate accommodation, either on or off campus. Private accommodation is available on the Magdeburg accommodation market. However, fully furnished units are in somewhat short supply.
                </p>
               </dd>
               <dt class="c-description-list__content">
@@ -692,7 +526,16 @@
               <dd class="c-description-list__content mb-0">
                <ul class="u-list mt-2">
                 <li>
+                 Welcome event
+                </li>
+                <li>
+                 Buddy programme
+                </li>
+                <li>
                  Specialist counselling
+                </li>
+                <li>
+                 Cultural and linguistic preparation
                 </li>
                </ul>
               </dd>
@@ -703,20 +546,33 @@
             <div class="c-profile">
              <h2 class="c-profile__title">
               <span class="c-profile__title-text">
-               University of Applied Sciences Bremerhaven
+               Otto von Guericke University Magdeburg
               </span>
              </h2>
              <div class="c-profile__container mb-4">
               <div class="c-profile__content">
-               The University of Applied Sciences Bremerhaven can look back on over 100 years of educational tradition. Its predecessor institutions are the Geestemünde School of Navigation, established in 1879, and the City Technical College, established in 1884. Today, the university has about 3,100 students. The curricula and research activities of the courses are practice-oriented, giving new impetus through future-oriented developments. Many Bachelor's and Master's theses are compiled in close cooperation with regional businesses. These theses contribute to strengthening the competitiveness of the economy. This mutual exchange of ideas also has a stimulating effect on teaching.
-               <br/>
-               <br/>
-               Courses at the University of Applied Sciences Bremerhaven focus on engineering and economics: Business Administration, Bioanalytics, Management in Medium-Sized Enterprises, Cruise Tourism Management, Digital Media, Information Technology, Business Information Systems, Food Technology, Food Economics, Logistics Engineering and Management, Maritime Technologies, Medical Engineering, Process Engineering and Energy Technology, Production Technology, Transport/Logistics, Ship Operation Engineering, Sustainable Energy Technology and Environmental Technology, Plant Operation Engineering, and Embedded Systems Design.
+               <p>
+                Otto von Guericke University Magdeburg was founded in 1993 and is one of Germany's youngest universities. It was formed by a merger of the existing technical university, the teacher training college, and the medical school. The university now comprises nine faculties and about 14,000 students and is becoming increasingly more important as a centre for education and research. It plays an important role in the regional capital of Magdeburg, which is developing into a centre for business, scholarship, and culture. The university is a member of many organisations and committees. It is named after Otto von Guericke (1602-1686), Magdeburg's famous citizen, whose pioneering research into the vacuum brought him renown well beyond Germany's borders. The university aspires to teach and research in the tradition of this great scientist, philosopher, and engineer and to continue with his humanist work.
+               </p>
+               <p>
+                At the Otto von Guericke University Magdeburg, students can choose from 92 degree courses in various areas of study and specialisation. In addition to these, a range of postgraduate courses are offered. There are also many possibilities to combine different subjects across faculties. The conditions for students are ideal, with modern laboratories, experimental workshops, and clinics equipped with high-performance computers and an excellent staff-student ratio. The offer of a sound, thorough education, combining a high level of theoretical expertise with practical experience, makes Magdeburg an attractive choice.
+               </p>
+               <p>
+                In recent years, research at the university has gone through a decisive change, from applied research to innovative, fundamental research. Among the many areas represented, the neurosciences, immunology, non-linear systems, new materials, processes and products, computational visualistics, social transformation, communication, and culture deserve a special mention. The university hopes to make a significant contribution to economic and social development in Magdeburg and the surrounding area through its research. Equally, disciplines such as the humanities, economics, and management, which have been established more recently at the university, have already made their mark on our research profile. Special emphasis is placed on close cooperation between teaching staff and students.
+               </p>
+               <p>
+                Magdeburg also attracts students because it offers accommodation with either a single bed or twin beds in its halls of residence.
+               </p>
+               <p>
+                <a href="http://ovgu.pageflow.io/campusdateinternational#48858">
+                 Take a virtual trip through our international campus!
+                </a>
+               </p>
               </div>
               <div class="c-profile__sidebar">
                <picture class="c-detail-header__logo">
-                <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5acf144394c72689112430.png"/>
-                <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5acf144394c72689112430.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5acf144394c72689112430.png"/>
+                <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac6049241809349315766.png"/>
+                <img alt="" src="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac6049241809349315766.png" srcset="https://www.daad.de/app/ip/media/cache/1_1_96px/uploads/images/logo/5ac6049241809349315766.png"/>
                </picture>
               </div>
              </div>
@@ -725,15 +581,19 @@
              </h3>
              <div class="c-profile__container mb-4">
               <div class="c-profile__content">
-               Bremerhaven has approx. 114,000 inhabitants and lies 60 km north of Bremen and 90 km west of Hamburg. Ships, ports, locks, and dykes give Bremerhaven its special character.
-               <br/>
-               It has an important container terminal for cargo on its way to and from the United States, and Europe's biggest car terminal is located in Bremerhaven. Apart from student life, university parties, and dozens of pubs, the 12 km of beaches in Cuxhaven, the mudflats of the Wattenmeer National Park, and the city of Bremen are further attractions.
+               <p>
+                As the capital of the federal state of Saxony-Anhalt, Magdeburg is the seat of the state parliament and administration. The town is more than 1,200 years old and has about 230,000 inhabitants. Its excellent location on the River Elbe and its proximity to Berlin, Hanover, and Leipzig have proven to be a significant asset for the city. In the 19th century, the town developed into an important industrial and trade centre. Nowadays, another quite distinctive feature of Magdeburg is its considerable research and innovation potential at the university, the Max Planck and Fraunhofer research institutes, and the university of applied sciences, which are all located in close proximity to each other. Magdeburg offers an extensive park and garden landscape, a rich cultural and sports life, and an ideal atmosphere for study. Please visit the website:
+                <a href="http://www.magdeburg.de.">
+                 www.magdeburg.de
+                </a>
+                .
+               </p>
               </div>
              </div>
              <div class="c-map mb-5">
-              <div class="js-google-map c-map__container" data-address="Hochschule Bremerhaven&lt;br /&gt;
-An der Karlstadt 8&lt;br /&gt;
-27568 Bremerhaven" data-apikey="AIzaSyBHT2SqhWHUrjuc-tJONFK9inelzALSPy0" data-markericon="/app/ip/bundles/frontend/images/google/marker.svg" id="map">
+              <div class="js-google-map c-map__container" data-address="Otto-von-Guericke-Universität Magdeburg&lt;br /&gt;
+Universitätsplatz 2&lt;br /&gt;
+39106 Magdeburg" data-apikey="AIzaSyBHT2SqhWHUrjuc-tJONFK9inelzALSPy0" data-markericon="/app/ip/bundles/frontend/images/google/marker.svg" id="map">
               </div>
              </div>
             </div>
@@ -750,19 +610,14 @@ An der Karlstadt 8&lt;br /&gt;
               Contact
              </h3>
              <p class="mb-0 c-contact__location c-contact__location--title">
-              University of Applied Sciences Bremerhaven
+              Otto von Guericke University Magdeburg
              </p>
              <p class="c-contact__location">
-              Registration and Examination Office
+              Faculty of Mechanical Engineering
              </p>
-             <h4 class="c-contact__asp">
-              Tobias Schaller
-             </h4>
              <div class="c-contact__content">
               <p class="mb-1 c-contact__address">
-               An der Karlstadt 8
-               <br/>
-               27568 Bremerhaven
+               39106 Magdeburg
                <br/>
               </p>
               <dl class="d-md-flex flex-wrap pb-1 mb-2 c-contact__links">
@@ -779,7 +634,7 @@ An der Karlstadt 8&lt;br /&gt;
                 </svg>
                </dt>
                <dd class="d-block d-inline-block mb-0 pb-3 pb-md-0 c-contact__mailaddress">
-                <a class="btn btn-primary btn-block c-contact__link writeEmail" href="mailto:tschaller@hs-bremerhaven.de">
+                <a class="btn btn-primary btn-block c-contact__link writeEmail" href="mailto:sem@ovgu.de">
                  Email
                 </a>
                </dd>
@@ -796,36 +651,14 @@ An der Karlstadt 8&lt;br /&gt;
                 </svg>
                </dt>
                <dd class="d-block d-inline-block mb-2 mb-md-0 pb-md-0 c-contact__url">
-                <a class="btn btn-primary btn-block c-contact__link visitCourseWebsite" href="https://www.hs-bremerhaven.de/en/study-courses/master/process-engineering-and-energy-technology/" target="_blank" title="site opens in a new tab">
+                <a class="btn btn-primary btn-block c-contact__link visitCourseWebsite" href="https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English/Systems+Engineering+for+Manufacturing-p-54344.html" target="_blank" title="site opens in a new tab">
                  Course website
-                </a>
-               </dd>
-              </dl>
-              <h4 class="c-contact__asp">
-               Prof Dr-Ing Axel Gottschalk
-              </h4>
-              <dl class="d-md-flex flex-wrap pb-1 mb-2 c-contact__links">
-               <dt class="d-none d-md-inline-block w-5 mr-2 c-contact__mail">
-                <svg aria-labelledby="c-contact-mail-label" enable-background="new 0 0 11.6 8" height="8" role="img" viewbox="0 0 11.6 8" width="11.6" xmlns="http://www.w3.org/2000/svg">
-                 <style type="text/css">
-                  .st0{fill:#333333;}
-                 </style>
-                 <title id="c-contact-mail-label">
-                  E-Mail:
-                 </title>
-                 <path class="st0" d="M0 0v8h11.6v-8h-11.6zm9.5.9l-3.7 2.6-3.7-2.6h7.4zm1.2 6.2h-9.8v-6l4.9 3.4 4.9-3.4v6z">
-                 </path>
-                </svg>
-               </dt>
-               <dd class="d-block d-inline-block mb-0 pb-3 pb-md-0 c-contact__mailaddress">
-                <a class="btn btn-primary btn-block c-contact__link writeEmail" href="mailto:agottschalk@hs-bremerhaven.de">
-                 agottschalk@hs-bremerhaven.de
                 </a>
                </dd>
               </dl>
               <ul class="list-inline d-flex mb-0 c-social-list">
                <li class="list-inline-item text-dark c-social-list__item">
-                <a aria-label="on Facebook" class="d-block text-dark c-social-list__link" href="https://www.facebook.com/hsbremerhaven/">
+                <a aria-label="on Facebook" class="d-block text-dark c-social-list__link" href="http://www.facebook.com/OVGU.Magdeburg">
                  <span aria-hidden="true" class="fa-stack">
                   <i class="fa fa-circle fa-stack-2x">
                   </i>
@@ -835,7 +668,17 @@ An der Karlstadt 8&lt;br /&gt;
                 </a>
                </li>
                <li class="list-inline-item text-dark c-social-list__item">
-                <a aria-label="on Instagram" class="d-block text-dark c-social-list__link" href="https://www.instagram.com/hs_bremerhaven/">
+                <a aria-label="on Twitter" class="d-block text-dark c-social-list__link" href="http://www.twitter.com/OVGUpresse">
+                 <span aria-hidden="true" class="fa-stack">
+                  <i class="fa fa-circle fa-stack-2x">
+                  </i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse">
+                  </i>
+                 </span>
+                </a>
+               </li>
+               <li class="list-inline-item text-dark c-social-list__item">
+                <a aria-label="on Instagram" class="d-block text-dark c-social-list__link" href="http://www.instagram.com/uni_magdeburg">
                  <span aria-hidden="true" class="fa-stack">
                   <i class="fa fa-circle fa-stack-2x">
                   </i>
@@ -868,7 +711,7 @@ An der Karlstadt 8&lt;br /&gt;
         </h2>
         <ul class="list-inline d-flex justify-content-center mb-0 c-social-share__items">
          <li class="list-inline-item mr-3 c-social-share__item">
-          <a aria-label="Share on Facebook" class="d-inline-block c-social-share__link c-social-share--facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4068/" target="_blank">
+          <a aria-label="Share on Facebook" class="d-inline-block c-social-share__link c-social-share--facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4827/" target="_blank">
            <span aria-hidden="true" class="fa-stack fa-lg">
             <i class="fa fa-square fa-stack-2x">
             </i>
@@ -878,7 +721,7 @@ An der Karlstadt 8&lt;br /&gt;
           </a>
          </li>
          <li class="list-inline-item mr-3 c-social-share__item">
-          <a aria-label="Share on Twitter" class="d-inline-block c-social-share__link c-social-share--twitter" href="https://www.twitter.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4068/" target="_blank">
+          <a aria-label="Share on Twitter" class="d-inline-block c-social-share__link c-social-share--twitter" href="https://www.twitter.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4827/" target="_blank">
            <span aria-hidden="true" class="fa-stack fa-lg">
             <i class="fa fa-square fa-stack-2x">
             </i>
@@ -888,7 +731,7 @@ An der Karlstadt 8&lt;br /&gt;
           </a>
          </li>
          <li class="list-inline-item mr-3 c-social-share__item">
-          <a aria-label="Share on Google+" class="d-inline-block c-social-share__link c-social-share--googleplus" href="https://plus.google.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4068/" target="_blank">
+          <a aria-label="Share on Google+" class="d-inline-block c-social-share__link c-social-share--googleplus" href="https://plus.google.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/detail/4827/" target="_blank">
            <span aria-hidden="true" class="fa-stack fa-lg">
             <i class="fa fa-square fa-stack-2x">
             </i>
@@ -988,7 +831,7 @@ An der Karlstadt 8&lt;br /&gt;
     </div>
    </div>
   </div>
-  <script src="/app/ip/build/app.dbf43d724164f1c2e38a.js" type="text/javascript">
+  <script src="/app/ip/build/app.410f4cf0e2dbdb8a1545.js" type="text/javascript">
   </script>
  </body>
 </html>

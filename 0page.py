@@ -1038,7 +1038,7 @@
            <div class="col-12">
             <ul class="list-unstyled slider slick-initialized slick-slider slick-dotted" data-slick='{"mobileFirst": true, "infinite": true, "autoplaySpeed": 10000, "autoplay": true, "dots": true, "appendDots": ".c-slider-nav", "prevArrow": ".c-slider-nav__prev", "nextArrow": ".c-slider-nav__next","slidesToShow": 1, "slidesToScroll": 1, "responsive": [{"breakpoint": 1320,"settings":{"slidesToShow": 1, "slidesToScroll": 1}}]}'>
              <div class="slick-list draggable">
-              <div class="slick-track" style="opacity: 1; width: 11804px; transform: translate3d(-3632px, 0px, 0px); transition: transform 500ms ease 0s;">
+              <div class="slick-track" style="opacity: 1; width: 11804px; transform: translate3d(-3632px, 0px, 0px);">
                <li aria-hidden="true" class="slick-slide slick-cloned" data-slick-index="-1" style="width: 908px;" tabindex="-1">
                 <div class="c-ad-carousel__visual col-12 col-md-4 px-0 pr-md-3">
                  <div class="c-ad-carousel__label d-flex align-items-center">
@@ -1127,16 +1127,16 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                    Master's degree
                   </p>
                   <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="3785" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="3704" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
                    </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="3785" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="3704" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
                    </a>
                   </div>
                  </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
                   <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aec1bf1d3170184088766.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aec1bf1d3170184088766.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aec1bf1d3170184088766.jpeg"/>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae300c2d1ead583883736.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae300c2d1ead583883736.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae300c2d1ead583883736.jpeg"/>
                   </picture>
                  </a>
                 </div>
@@ -1144,18 +1144,18 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                  <em class="c-ad-carousel__ad">
                   Advertisement
                  </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
                   <h2 class="c-ad-carousel__title">
-                   Computational Mechanics of Materials and Structures (COMMAS)
+                   Global Production Engineering (GPE)
                   </h2>
                  </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
                   <h3 class="c-ad-carousel__subtitle">
-                   University of Stuttgart
+                   Technische Universität Berlin
                   </h3>
                  </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
-                  • Stuttgart
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
+                  • Berlin
                  </a>
                  <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
                   <li class="list-inline-item mr-1">
@@ -1163,7 +1163,8 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                     Tuition fees per semester:
                    </span>
                    <span class="c-ad-carousel__data-item">
-                    Varied                |
+                    3,875.00
+                |
                    </span>
                   </li>
                   <li class="list-inline-item mr-1">
@@ -1194,7 +1195,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                   </li>
                  </ul>
                  <p class="c-ad-carousel__body">
-                  Computational Mechanics of Materials and Structures is concerned with the simulation of advanced engineering problems using modelling techniques, computer implementation, experimental verification...
+                  Global Production Engineering (GPE) is a full-time, four-semester course of study offered at the Technische Universität Berlin, Germany. The curriculum is designed for outstanding internationa...
                  </p>
                 </div>
                </li>
@@ -1277,23 +1278,23 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                  </p>
                 </div>
                </li>
-               <li aria-describedby="slick-slide-control02" aria-hidden="true" class="slick-slide" data-slick-index="2" id="slick-slide02" role="tabpanel" style="width: 908px;" tabindex="0">
+               <li aria-describedby="slick-slide-control02" aria-hidden="true" class="slick-slide" data-slick-index="2" id="slick-slide02" role="tabpanel" style="width: 908px;" tabindex="-1">
                 <div class="c-ad-carousel__visual col-12 col-md-4 px-0 pr-md-3">
                  <div class="c-ad-carousel__label d-flex align-items-center">
                   <p class="c-ad-carousel__course m-0">
                    Master's degree
                   </p>
                   <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="3949" data-remove-title="uncompare" data-title="compare" href="#" tabindex="0" title="compare">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4362" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
                    </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="3949" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="0" title="bookmark">
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4362" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
                    </a>
                   </div>
                  </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="0">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
                   <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5b07fce29776a940272162.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5b07fce29776a940272162.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5b07fce29776a940272162.jpeg"/>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae02c616ec97174966577.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae02c616ec97174966577.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae02c616ec97174966577.jpeg"/>
                   </picture>
                  </a>
                 </div>
@@ -1301,18 +1302,18 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                  <em class="c-ad-carousel__ad">
                   Advertisement
                  </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="0">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
                   <h2 class="c-ad-carousel__title">
-                   Analytical Instruments, Measurement and Sensor Technology
+                   Management and Engineering in Production Systems
                   </h2>
                  </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="0">
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
                   <h3 class="c-ad-carousel__subtitle">
-                   Coburg University
+                   RWTH Aachen University
                   </h3>
                  </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="0">
-                  • Coburg
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
+                  • Aachen
                  </a>
                  <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
                   <li class="list-inline-item mr-1">
@@ -1320,7 +1321,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                     Tuition fees per semester:
                    </span>
                    <span class="c-ad-carousel__data-item">
-                    3,500.00
+                    5,500.00
                 |
                    </span>
                   </li>
@@ -1352,27 +1353,27 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                   </li>
                  </ul>
                  <p class="c-ad-carousel__body">
-                  The international Master's programme Analytical Instruments, Measurement and Sensor Technology (AIMS) covers a broad range of subjects that are essential for a successful career in not only the...
+                  Graduates trained to understand both the art of management and complex engineering processes are increasingly sought after in today's industrial world. This Master is an interdisciplinary progr...
                  </p>
                 </div>
                </li>
-               <li aria-describedby="slick-slide-control03" aria-hidden="false" class="slick-slide slick-current slick-active" data-slick-index="3" id="slick-slide03" role="tabpanel" style="width: 908px;" tabindex="-1">
+               <li aria-describedby="slick-slide-control03" aria-hidden="false" class="slick-slide slick-current slick-active" data-slick-index="3" id="slick-slide03" role="tabpanel" style="width: 908px;" tabindex="0">
                 <div class="c-ad-carousel__visual col-12 col-md-4 px-0 pr-md-3">
                  <div class="c-ad-carousel__label d-flex align-items-center">
                   <p class="c-ad-carousel__course m-0">
                    Master's degree
                   </p>
                   <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4412" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4445" data-remove-title="uncompare" data-title="compare" href="#" tabindex="0" title="compare">
                    </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4412" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4445" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="0" title="bookmark">
                    </a>
                   </div>
                  </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="0">
                   <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae1880083b02152548918.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae1880083b02152548918.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae1880083b02152548918.jpeg"/>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adedbe722eb2334341045.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adedbe722eb2334341045.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adedbe722eb2334341045.jpeg"/>
                   </picture>
                  </a>
                 </div>
@@ -1380,96 +1381,17 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                  <em class="c-ad-carousel__ad">
                   Advertisement
                  </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="0">
                   <h2 class="c-ad-carousel__title">
-                   MSc Renewable Energy &amp; Energy Efficiency MENA (REMENA)
+                   Textile Engineering
                   </h2>
                  </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
-                  <h3 class="c-ad-carousel__subtitle">
-                   University of Kassel
-                  </h3>
-                 </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
-                  • Kassel
-                 </a>
-                 <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Tuition fees per semester:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    2,500.00
-                |
-                   </span>
-                  </li>
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Course Language:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    English
-            |
-                   </span>
-                  </li>
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Beginning:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    Winter and summer semester
-            |
-                   </span>
-                  </li>
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Programme Duration:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    4 semesters
-                   </span>
-                  </li>
-                 </ul>
-                 <p class="c-ad-carousel__body">
-                  REMENA is an English-language double degree MSc programme of the University of Kassel (UKAS) in Germany, the Cairo University (CU) in Egypt, and the University of Monastir (UM) in Tunisia. Add...
-                 </p>
-                </div>
-               </li>
-               <li aria-describedby="slick-slide-control04" aria-hidden="true" class="slick-slide" data-slick-index="4" id="slick-slide04" role="tabpanel" style="width: 908px;" tabindex="-1">
-                <div class="c-ad-carousel__visual col-12 col-md-4 px-0 pr-md-3">
-                 <div class="c-ad-carousel__label d-flex align-items-center">
-                  <p class="c-ad-carousel__course m-0">
-                   Master's degree
-                  </p>
-                  <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4819" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
-                   </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4819" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
-                   </a>
-                  </div>
-                 </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
-                  <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adf1a3a16af3103439568.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adf1a3a16af3103439568.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adf1a3a16af3103439568.jpeg"/>
-                  </picture>
-                 </a>
-                </div>
-                <div class="c-ad-carousel__content c-ad-carousel__content--border col-12 col-md-8 px-0 px-md-3">
-                 <em class="c-ad-carousel__ad">
-                  Advertisement
-                 </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
-                  <h2 class="c-ad-carousel__title">
-                   Robotic Systems Engineering
-                  </h2>
-                 </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="0">
                   <h3 class="c-ad-carousel__subtitle">
                    RWTH Aachen University
                   </h3>
                  </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="0">
                   • Aachen
                  </a>
                  <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
@@ -1487,6 +1409,84 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                     Course Language:
                    </span>
                    <span class="c-ad-carousel__data-item">
+                    German, English
+            |
+                   </span>
+                  </li>
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Beginning:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
+                    Winter semester
+            |
+                   </span>
+                  </li>
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Programme Duration:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
+                    4 semesters
+                   </span>
+                  </li>
+                 </ul>
+                 <p class="c-ad-carousel__body">
+                  Germany is the primary worldwide location in researching and developing new technologies in mechanical engineering industries and is also one of the biggest producers of technical textiles....
+                 </p>
+                </div>
+               </li>
+               <li aria-describedby="slick-slide-control04" aria-hidden="true" class="slick-slide" data-slick-index="4" id="slick-slide04" role="tabpanel" style="width: 908px;" tabindex="-1">
+                <div class="c-ad-carousel__visual col-12 col-md-4 px-0 pr-md-3">
+                 <div class="c-ad-carousel__label d-flex align-items-center">
+                  <p class="c-ad-carousel__course m-0">
+                   Master's degree
+                  </p>
+                  <div class="c-ad-carousel__functions d-flex">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4823" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
+                   </a>
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4823" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
+                   </a>
+                  </div>
+                 </div>
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  <picture>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aeb1a3c2a26a422369928.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aeb1a3c2a26a422369928.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aeb1a3c2a26a422369928.jpeg"/>
+                  </picture>
+                 </a>
+                </div>
+                <div class="c-ad-carousel__content c-ad-carousel__content--border col-12 col-md-8 px-0 px-md-3">
+                 <em class="c-ad-carousel__ad">
+                  Advertisement
+                 </em>
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  <h2 class="c-ad-carousel__title">
+                   Master of Science Micro- and Nanotechnologies
+                  </h2>
+                 </a>
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  <h3 class="c-ad-carousel__subtitle">
+                   Technische Universität Ilmenau
+                  </h3>
+                 </a>
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  • Ilmenau
+                 </a>
+                 <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Tuition fees per semester:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
+                    None                |
+                   </span>
+                  </li>
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Course Language:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
                     English
             |
                    </span>
@@ -1510,7 +1510,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                   </li>
                  </ul>
                  <p class="c-ad-carousel__body">
-                  "Smart Factories (Industry 4.0) has brought about a new digital manufacturing era. The Internet of Things and Services, enhanced communication in Smart Factory, and real-time available data le...
+                  Studying micro- and nanotechnologies at the TU Ilmenau offers a combination of classical microtechnologies and modern nanotechnologies. It covers methods, tools, and theoretical considerations for...
                  </p>
                 </div>
                </li>
@@ -1602,16 +1602,16 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                    Master's degree
                   </p>
                   <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="3785" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="3704" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
                    </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="3785" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="3704" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
                    </a>
                   </div>
                  </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
                   <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aec1bf1d3170184088766.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aec1bf1d3170184088766.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aec1bf1d3170184088766.jpeg"/>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae300c2d1ead583883736.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae300c2d1ead583883736.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae300c2d1ead583883736.jpeg"/>
                   </picture>
                  </a>
                 </div>
@@ -1619,18 +1619,18 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                  <em class="c-ad-carousel__ad">
                   Advertisement
                  </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
                   <h2 class="c-ad-carousel__title">
-                   Computational Mechanics of Materials and Structures (COMMAS)
+                   Global Production Engineering (GPE)
                   </h2>
                  </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
                   <h3 class="c-ad-carousel__subtitle">
-                   University of Stuttgart
+                   Technische Universität Berlin
                   </h3>
                  </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3785/" tabindex="-1">
-                  • Stuttgart
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3704/" tabindex="-1">
+                  • Berlin
                  </a>
                  <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
                   <li class="list-inline-item mr-1">
@@ -1638,7 +1638,8 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                     Tuition fees per semester:
                    </span>
                    <span class="c-ad-carousel__data-item">
-                    Varied                |
+                    3,875.00
+                |
                    </span>
                   </li>
                   <li class="list-inline-item mr-1">
@@ -1669,7 +1670,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                   </li>
                  </ul>
                  <p class="c-ad-carousel__body">
-                  Computational Mechanics of Materials and Structures is concerned with the simulation of advanced engineering problems using modelling techniques, computer implementation, experimental verification...
+                  Global Production Engineering (GPE) is a full-time, four-semester course of study offered at the Technische Universität Berlin, Germany. The curriculum is designed for outstanding internationa...
                  </p>
                 </div>
                </li>
@@ -1759,16 +1760,16 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                    Master's degree
                   </p>
                   <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="3949" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4362" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
                    </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="3949" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4362" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
                    </a>
                   </div>
                  </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
                   <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5b07fce29776a940272162.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5b07fce29776a940272162.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5b07fce29776a940272162.jpeg"/>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae02c616ec97174966577.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae02c616ec97174966577.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae02c616ec97174966577.jpeg"/>
                   </picture>
                  </a>
                 </div>
@@ -1776,18 +1777,18 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                  <em class="c-ad-carousel__ad">
                   Advertisement
                  </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
                   <h2 class="c-ad-carousel__title">
-                   Analytical Instruments, Measurement and Sensor Technology
+                   Management and Engineering in Production Systems
                   </h2>
                  </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="-1">
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
                   <h3 class="c-ad-carousel__subtitle">
-                   Coburg University
+                   RWTH Aachen University
                   </h3>
                  </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/3949/" tabindex="-1">
-                  • Coburg
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4362/" tabindex="-1">
+                  • Aachen
                  </a>
                  <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
                   <li class="list-inline-item mr-1">
@@ -1795,7 +1796,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                     Tuition fees per semester:
                    </span>
                    <span class="c-ad-carousel__data-item">
-                    3,500.00
+                    5,500.00
                 |
                    </span>
                   </li>
@@ -1827,7 +1828,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                   </li>
                  </ul>
                  <p class="c-ad-carousel__body">
-                  The international Master's programme Analytical Instruments, Measurement and Sensor Technology (AIMS) covers a broad range of subjects that are essential for a successful career in not only the...
+                  Graduates trained to understand both the art of management and complex engineering processes are increasingly sought after in today's industrial world. This Master is an interdisciplinary progr...
                  </p>
                 </div>
                </li>
@@ -1838,16 +1839,16 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                    Master's degree
                   </p>
                   <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4412" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4445" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
                    </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4412" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4445" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
                    </a>
                   </div>
                  </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="-1">
                   <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae1880083b02152548918.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae1880083b02152548918.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5ae1880083b02152548918.jpeg"/>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adedbe722eb2334341045.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adedbe722eb2334341045.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adedbe722eb2334341045.jpeg"/>
                   </picture>
                  </a>
                 </div>
@@ -1855,96 +1856,17 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                  <em class="c-ad-carousel__ad">
                   Advertisement
                  </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="-1">
                   <h2 class="c-ad-carousel__title">
-                   MSc Renewable Energy &amp; Energy Efficiency MENA (REMENA)
+                   Textile Engineering
                   </h2>
                  </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
-                  <h3 class="c-ad-carousel__subtitle">
-                   University of Kassel
-                  </h3>
-                 </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4412/" tabindex="-1">
-                  • Kassel
-                 </a>
-                 <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Tuition fees per semester:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    2,500.00
-                |
-                   </span>
-                  </li>
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Course Language:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    English
-            |
-                   </span>
-                  </li>
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Beginning:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    Winter and summer semester
-            |
-                   </span>
-                  </li>
-                  <li class="list-inline-item mr-1">
-                   <span class="align-top">
-                    Programme Duration:
-                   </span>
-                   <span class="c-ad-carousel__data-item">
-                    4 semesters
-                   </span>
-                  </li>
-                 </ul>
-                 <p class="c-ad-carousel__body">
-                  REMENA is an English-language double degree MSc programme of the University of Kassel (UKAS) in Germany, the Cairo University (CU) in Egypt, and the University of Monastir (UM) in Tunisia. Add...
-                 </p>
-                </div>
-               </li>
-               <li aria-hidden="true" class="slick-slide slick-cloned" data-slick-index="10" style="width: 908px;" tabindex="-1">
-                <div class="c-ad-carousel__visual col-12 col-md-4 px-0 pr-md-3">
-                 <div class="c-ad-carousel__label d-flex align-items-center">
-                  <p class="c-ad-carousel__course m-0">
-                   Master's degree
-                  </p>
-                  <div class="c-ad-carousel__functions d-flex">
-                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4819" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
-                   </a>
-                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4819" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
-                   </a>
-                  </div>
-                 </div>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
-                  <picture>
-                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adf1a3a16af3103439568.jpeg"/>
-                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adf1a3a16af3103439568.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5adf1a3a16af3103439568.jpeg"/>
-                  </picture>
-                 </a>
-                </div>
-                <div class="c-ad-carousel__content c-ad-carousel__content--border col-12 col-md-8 px-0 px-md-3">
-                 <em class="c-ad-carousel__ad">
-                  Advertisement
-                 </em>
-                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
-                  <h2 class="c-ad-carousel__title">
-                   Robotic Systems Engineering
-                  </h2>
-                 </a>
-                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="-1">
                   <h3 class="c-ad-carousel__subtitle">
                    RWTH Aachen University
                   </h3>
                  </a>
-                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4819/" tabindex="-1">
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4445/" tabindex="-1">
                   • Aachen
                  </a>
                  <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
@@ -1962,6 +1884,84 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                     Course Language:
                    </span>
                    <span class="c-ad-carousel__data-item">
+                    German, English
+            |
+                   </span>
+                  </li>
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Beginning:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
+                    Winter semester
+            |
+                   </span>
+                  </li>
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Programme Duration:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
+                    4 semesters
+                   </span>
+                  </li>
+                 </ul>
+                 <p class="c-ad-carousel__body">
+                  Germany is the primary worldwide location in researching and developing new technologies in mechanical engineering industries and is also one of the biggest producers of technical textiles....
+                 </p>
+                </div>
+               </li>
+               <li aria-hidden="true" class="slick-slide slick-cloned" data-slick-index="10" style="width: 908px;" tabindex="-1">
+                <div class="c-ad-carousel__visual col-12 col-md-4 px-0 pr-md-3">
+                 <div class="c-ad-carousel__label d-flex align-items-center">
+                  <p class="c-ad-carousel__course m-0">
+                   Master's degree
+                  </p>
+                  <div class="c-ad-carousel__functions d-flex">
+                   <a aria-label="compare" class="c-ad-carousel__icon c-ad-carousel__icon--compare js-add-to-compare-list" data-course-type="2" data-id="4823" data-remove-title="uncompare" data-title="compare" href="#" tabindex="-1" title="compare">
+                   </a>
+                   <a aria-label="bookmark" class="c-ad-carousel__icon c-ad-carousel__icon--bookmark js-add-to-watchlist" data-id="4823" data-remove-title="unbookmark" data-title="bookmark" href="#" tabindex="-1" title="bookmark">
+                   </a>
+                  </div>
+                 </div>
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  <picture>
+                   <source media="(min-width: 64em)" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aeb1a3c2a26a422369928.jpeg"/>
+                   <img alt="" class="c-ad-carousel__image" src="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aeb1a3c2a26a422369928.jpeg" srcset="https://www.daad.de/app/ip/media/cache/4_3_300px/uploads/images/image/online/5aeb1a3c2a26a422369928.jpeg"/>
+                  </picture>
+                 </a>
+                </div>
+                <div class="c-ad-carousel__content c-ad-carousel__content--border col-12 col-md-8 px-0 px-md-3">
+                 <em class="c-ad-carousel__ad">
+                  Advertisement
+                 </em>
+                 <a class="tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  <h2 class="c-ad-carousel__title">
+                   Master of Science Micro- and Nanotechnologies
+                  </h2>
+                 </a>
+                 <a class="mr-1 list-inline-item tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  <h3 class="c-ad-carousel__subtitle">
+                   Technische Universität Ilmenau
+                  </h3>
+                 </a>
+                 <a class="list-inline-item c-ad-carousel__subtitle c-ad-carousel__subtitle--location tracking-click-ad" href="/deutschland/studienangebote/international-programmes/en/detail/4823/" tabindex="-1">
+                  • Ilmenau
+                 </a>
+                 <ul class="list-inline c-ad-carousel__data-list mb-3 u-linear-fade u-limited-height">
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Tuition fees per semester:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
+                    None                |
+                   </span>
+                  </li>
+                  <li class="list-inline-item mr-1">
+                   <span class="align-top">
+                    Course Language:
+                   </span>
+                   <span class="c-ad-carousel__data-item">
                     English
             |
                    </span>
@@ -1985,7 +1985,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                   </li>
                  </ul>
                  <p class="c-ad-carousel__body">
-                  "Smart Factories (Industry 4.0) has brought about a new digital manufacturing era. The Internet of Things and Services, enhanced communication in Smart Factory, and real-time available data le...
+                  Studying micro- and nanotechnologies at the TU Ilmenau offers a combination of classical microtechnologies and modern nanotechnologies. It covers methods, tools, and theoretical considerations for...
                  </p>
                 </div>
                </li>
@@ -2113,12 +2113,12 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
                </button>
               </li>
               <li class="" role="presentation">
-               <button aria-controls="slick-slide02" aria-label="3 of 6" aria-selected="true" id="slick-slide-control02" role="tab" tabindex="0" type="button">
+               <button aria-controls="slick-slide02" aria-label="3 of 6" id="slick-slide-control02" role="tab" tabindex="-1" type="button">
                 3
                </button>
               </li>
               <li class="slick-active" role="presentation">
-               <button aria-controls="slick-slide03" aria-label="4 of 6" id="slick-slide-control03" role="tab" tabindex="-1" type="button">
+               <button aria-controls="slick-slide03" aria-label="4 of 6" aria-selected="true" id="slick-slide-control03" role="tab" tabindex="0" type="button">
                 4
                </button>
               </li>
@@ -2404,7 +2404,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
       </h2>
       <ul class="list-inline d-flex justify-content-center mb-0 c-social-share__items">
        <li class="list-inline-item mr-3 c-social-share__item">
-        <a aria-label="Share on Facebook" class="d-inline-block c-social-share__link c-social-share--facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?admReq=&amp;bgn%5B%5D=1&amp;cert=&amp;cit%5B%5D=&amp;crossFac=&amp;degree%5B%5D=2&amp;display=list&amp;dur%5B%5D=0-63070000&amp;fee=0&amp;fos=3&amp;ins%5B%5D=&amp;langDeAvailable=&amp;langEnAvailable=&amp;lang%5B%5D=2&amp;limit=10&amp;lvlEn%5B%5D=&amp;offset=&amp;q=&amp;scholarshipLC=&amp;scholarshipSC=&amp;sort=4&amp;subjects%5B%5D=15&amp;tyi%5B%5D=1" target="_blank">
+        <a aria-label="Share on Facebook" class="d-inline-block c-social-share__link c-social-share--facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?admReq=&amp;bgn%5B%5D=1&amp;cert=&amp;cit%5B%5D=&amp;crossFac=&amp;degree%5B%5D=2&amp;display=list&amp;dur%5B%5D=0-63070000&amp;fee=0&amp;fos=3&amp;ins%5B%5D=&amp;langDeAvailable=&amp;langEnAvailable=&amp;lang%5B%5D=2&amp;limit=10&amp;lvlEn%5B%5D=&amp;offset=0&amp;q=&amp;scholarshipLC=&amp;scholarshipSC=&amp;sort=4&amp;subjects%5B%5D=15&amp;tyi%5B%5D=1" target="_blank">
          <span aria-hidden="true" class="fa-stack fa-lg">
           <i class="fa fa-square fa-stack-2x">
           </i>
@@ -2414,7 +2414,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
         </a>
        </li>
        <li class="list-inline-item mr-3 c-social-share__item">
-        <a aria-label="Share on Twitter" class="d-inline-block c-social-share__link c-social-share--twitter" href="https://www.twitter.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?admReq=&amp;bgn%5B%5D=1&amp;cert=&amp;cit%5B%5D=&amp;crossFac=&amp;degree%5B%5D=2&amp;display=list&amp;dur%5B%5D=0-63070000&amp;fee=0&amp;fos=3&amp;ins%5B%5D=&amp;langDeAvailable=&amp;langEnAvailable=&amp;lang%5B%5D=2&amp;limit=10&amp;lvlEn%5B%5D=&amp;offset=&amp;q=&amp;scholarshipLC=&amp;scholarshipSC=&amp;sort=4&amp;subjects%5B%5D=15&amp;tyi%5B%5D=1" target="_blank">
+        <a aria-label="Share on Twitter" class="d-inline-block c-social-share__link c-social-share--twitter" href="https://www.twitter.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?admReq=&amp;bgn%5B%5D=1&amp;cert=&amp;cit%5B%5D=&amp;crossFac=&amp;degree%5B%5D=2&amp;display=list&amp;dur%5B%5D=0-63070000&amp;fee=0&amp;fos=3&amp;ins%5B%5D=&amp;langDeAvailable=&amp;langEnAvailable=&amp;lang%5B%5D=2&amp;limit=10&amp;lvlEn%5B%5D=&amp;offset=0&amp;q=&amp;scholarshipLC=&amp;scholarshipSC=&amp;sort=4&amp;subjects%5B%5D=15&amp;tyi%5B%5D=1" target="_blank">
          <span aria-hidden="true" class="fa-stack fa-lg">
           <i class="fa fa-square fa-stack-2x">
           </i>
@@ -2424,7 +2424,7 @@ The Esslingen MEng in Design and Development in Automotive and Mechanical Engine
         </a>
        </li>
        <li class="list-inline-item mr-3 c-social-share__item">
-        <a aria-label="Share on Google+" class="d-inline-block c-social-share__link c-social-share--googleplus" href="https://plus.google.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?admReq=&amp;bgn%5B%5D=1&amp;cert=&amp;cit%5B%5D=&amp;crossFac=&amp;degree%5B%5D=2&amp;display=list&amp;dur%5B%5D=0-63070000&amp;fee=0&amp;fos=3&amp;ins%5B%5D=&amp;langDeAvailable=&amp;langEnAvailable=&amp;lang%5B%5D=2&amp;limit=10&amp;lvlEn%5B%5D=&amp;offset=&amp;q=&amp;scholarshipLC=&amp;scholarshipSC=&amp;sort=4&amp;subjects%5B%5D=15&amp;tyi%5B%5D=1" target="_blank">
+        <a aria-label="Share on Google+" class="d-inline-block c-social-share__link c-social-share--googleplus" href="https://plus.google.com/share?url=https://www.daad.de/deutschland/studienangebote/international-programmes/en/result/?admReq=&amp;bgn%5B%5D=1&amp;cert=&amp;cit%5B%5D=&amp;crossFac=&amp;degree%5B%5D=2&amp;display=list&amp;dur%5B%5D=0-63070000&amp;fee=0&amp;fos=3&amp;ins%5B%5D=&amp;langDeAvailable=&amp;langEnAvailable=&amp;lang%5B%5D=2&amp;limit=10&amp;lvlEn%5B%5D=&amp;offset=0&amp;q=&amp;scholarshipLC=&amp;scholarshipSC=&amp;sort=4&amp;subjects%5B%5D=15&amp;tyi%5B%5D=1" target="_blank">
          <span aria-hidden="true" class="fa-stack fa-lg">
           <i class="fa fa-square fa-stack-2x">
           </i>
