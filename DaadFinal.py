@@ -63,7 +63,7 @@ def extract_course_links(filename, excel):
     f.close()
 
 rowdetails = []
-totalresult = (math.ceil((int(number_of_courses(courselist_html(urlpage,"mechanical.py")))/10)))
+totalresult = (math.ceil((int(number_of_courses(courselist_html(urlpage,"mechanical.txt")))/10)))
 offset = 0
 links =[]
 
@@ -76,7 +76,7 @@ for i in range(totalresult):
 # extract all 10 course links from individual result page
 for i,j in enumerate(links):
     print('Saving the html results page to ' + str(i) +'resultspage.py')
-    extract_course_links(courselist_html(str(j), str(i)+'page.py'), rowdetails)
+    extract_course_links(courselist_html(str(j), str(i)+'page.txt'), rowdetails)
     time.sleep(30)
 
 '''
@@ -109,7 +109,7 @@ def fetch_html(fullurl,contextstring, page):
     print("HTTP status",uh.getcode())
     html =uh.read().decode()
     bs = BeautifulSoup(html, 'html.parser')
-    coursehtml = str("F:\HarshDocs\python\WebScrapingMS\data\course"+page+".py")
+    coursehtml = str("F:\HarshDocs\python\WebScrapingMS\data\course"+page+".txt")
     f= open(coursehtml, 'w', encoding="utf-8")
     f.write(bs.prettify())
     print("Saved to " + coursehtml)
